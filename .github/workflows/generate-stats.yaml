@@ -1,0 +1,28 @@
+name: GitHub Profile Stats
+
+on:
+  schedule:
+    # run everyday at 12:00 UTC
+    - cron: "0 12 * * *"
+  workflow_dispatch:
+
+permissions:
+  # Give the default GITHUB_TOKEN write permission to commit and push the
+  # added or changed files to the repository.
+  contents: write
+
+jobs:
+  Collect-GitHub-Stats:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: stats-concurrency
+      cancel-in-progress: true
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: profile-stats
+        uses: LukeHagar/stats-action@0.0.2
+        env:
+          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
