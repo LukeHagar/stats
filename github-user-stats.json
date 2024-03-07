@@ -3,10 +3,13 @@
     "avatarUrl": "https://avatars.githubusercontent.com/u/5702154?v=4",
     "username": "LukeHagar",
     "repoViews": 1884,
-    "linesOfCodeChanged": 11237364,
-    "totalCommits": 1667,
+    "linesOfCodeChanged": 11237427,
+    "linesAdded": 7677542,
+    "linesDeleted": 3558361,
+    "linesChanged": 1524,
+    "totalCommits": 1675,
     "totalPullRequests": 48,
-    "codeByteTotal": 53823952,
+    "codeByteTotal": 53824086,
     "topLanguages": [
         {
             "languageName": "Svelte",
@@ -21,7 +24,7 @@
         {
             "languageName": "TypeScript",
             "color": "#3178c6",
-            "value": 6675182
+            "value": 6675316
         },
         {
             "languageName": "Makefile",
@@ -111,16 +114,16 @@
     ],
     "forkCount": 14,
     "starCount": 118,
-    "totalContributions": 1856,
+    "totalContributions": 1864,
     "contributionsCollection": {
-        "totalCommitContributions": 1668,
+        "totalCommitContributions": 1676,
         "restrictedContributionsCount": 8,
         "totalIssueContributions": 22,
         "totalRepositoryContributions": 87,
         "totalPullRequestContributions": 48,
         "totalPullRequestReviewContributions": 17,
         "contributionCalendar": {
-            "totalContributions": 1856,
+            "totalContributions": 1864,
             "weeks": [
                 {
                     "contributionDays": [
@@ -17541,7 +17544,7 @@
                             "date": "2024-03-06"
                         },
                         {
-                            "contributionCount": 25,
+                            "contributionCount": 33,
                             "date": "2024-03-07"
                         }
                     ]
@@ -17551,5 +17554,5 @@
     },
     "closedIssues": 12,
     "openIssues": 10,
-    "fetchedAt": 1709838220625
+    "fetchedAt": 1709839276819
 }
