@@ -2,14 +2,14 @@
     "name": "Luke Hagar",
     "avatarUrl": "https://avatars.githubusercontent.com/u/5702154?v=4",
     "username": "LukeHagar",
-    "repoViews": 446,
-    "linesOfCodeChanged": 11517014,
-    "linesAdded": 7901355,
-    "linesDeleted": 3613947,
-    "linesChanged": 1712,
-    "totalCommits": 2026,
+    "repoViews": 488,
+    "linesOfCodeChanged": 11538814,
+    "linesAdded": 7923137,
+    "linesDeleted": 3613963,
+    "linesChanged": 1714,
+    "totalCommits": 2028,
     "totalPullRequests": 86,
-    "codeByteTotal": 59478107,
+    "codeByteTotal": 59743629,
     "topLanguages": [
         {
             "languageName": "Svelte",
@@ -19,12 +19,12 @@
         {
             "languageName": "JavaScript",
             "color": "#f1e05a",
-            "value": 5688160
+            "value": 5698887
         },
         {
             "languageName": "TypeScript",
             "color": "#3178c6",
-            "value": 6594091
+            "value": 6622206
         },
         {
             "languageName": "Mustache",
@@ -72,19 +72,19 @@
             "value": 61420
         },
         {
+            "languageName": "Astro",
+            "color": "#ff5a03",
+            "value": 427364
+        },
+        {
             "languageName": "MDX",
             "color": "#fcb32c",
-            "value": 33808563
+            "value": 33831065
         },
         {
             "languageName": "SCSS",
             "color": "#c6538c",
             "value": 408229
-        },
-        {
-            "languageName": "Astro",
-            "color": "#ff5a03",
-            "value": 223186
         },
         {
             "languageName": "Vue",
@@ -119,16 +119,16 @@
     ],
     "forkCount": 18,
     "starCount": 139,
-    "totalContributions": 2258,
+    "totalContributions": 2261,
     "contributionsCollection": {
-        "totalCommitContributions": 2009,
+        "totalCommitContributions": 2011,
         "restrictedContributionsCount": 0,
         "totalIssueContributions": 26,
-        "totalRepositoryContributions": 96,
+        "totalRepositoryContributions": 97,
         "totalPullRequestContributions": 86,
         "totalPullRequestReviewContributions": 34,
         "contributionCalendar": {
-            "totalContributions": 2258,
+            "totalContributions": 2261,
             "weeks": [
                 {
                     "contributionDays": [
@@ -17909,8 +17909,16 @@
                             "date": "2024-05-24"
                         },
                         {
-                            "contributionCount": 0,
+                            "contributionCount": 3,
                             "date": "2024-05-25"
+                        }
+                    ]
+                },
+                {
+                    "contributionDays": [
+                        {
+                            "contributionCount": 0,
+                            "date": "2024-05-26"
                         }
                     ]
                 }
@@ -17919,5 +17927,5 @@
     },
     "closedIssues": 12,
     "openIssues": 14,
-    "fetchedAt": 1716640223627
+    "fetchedAt": 1716726591927
 }
