@@ -2,14 +2,14 @@
     "name": "Luke Hagar",
     "avatarUrl": "https://avatars.githubusercontent.com/u/5702154?v=4",
     "username": "LukeHagar",
-    "repoViews": 1391,
-    "linesOfCodeChanged": 11548472,
-    "linesAdded": 7931369,
-    "linesDeleted": 3615366,
-    "linesChanged": 1737,
-    "totalCommits": 2063,
+    "repoViews": 1384,
+    "linesOfCodeChanged": 11548499,
+    "linesAdded": 7931384,
+    "linesDeleted": 3615377,
+    "linesChanged": 1738,
+    "totalCommits": 2066,
     "totalPullRequests": 90,
-    "codeByteTotal": 59656687,
+    "codeByteTotal": 62935410,
     "topLanguages": [
         {
             "languageName": "Svelte",
@@ -19,12 +19,12 @@
         {
             "languageName": "JavaScript",
             "color": "#f1e05a",
-            "value": 5699596
+            "value": 6400807
         },
         {
             "languageName": "TypeScript",
             "color": "#3178c6",
-            "value": 6560888
+            "value": 9053808
         },
         {
             "languageName": "Mustache",
@@ -34,7 +34,7 @@
         {
             "languageName": "Python",
             "color": "#3572A5",
-            "value": 1924584
+            "value": 1937533
         },
         {
             "languageName": "Makefile",
@@ -44,7 +44,7 @@
         {
             "languageName": "Go",
             "color": "#00ADD8",
-            "value": 2000332
+            "value": 2006451
         },
         {
             "languageName": "C#",
@@ -72,6 +72,26 @@
             "value": 61420
         },
         {
+            "languageName": "Stylus",
+            "color": "#ff6347",
+            "value": 23924
+        },
+        {
+            "languageName": "EJS",
+            "color": "#a91e50",
+            "value": 21060
+        },
+        {
+            "languageName": "Vue",
+            "color": "#41b883",
+            "value": 14415
+        },
+        {
+            "languageName": "Marko",
+            "color": "#42bff2",
+            "value": 6699
+        },
+        {
             "languageName": "Astro",
             "color": "#ff5a03",
             "value": 427364
@@ -85,11 +105,6 @@
             "languageName": "SCSS",
             "color": "#c6538c",
             "value": 408229
-        },
-        {
-            "languageName": "Vue",
-            "color": "#41b883",
-            "value": 314
         },
         {
             "languageName": "Sass",
@@ -110,25 +125,20 @@
             "languageName": "Earthly",
             "color": "#2af0ff",
             "value": 110
-        },
-        {
-            "languageName": "EJS",
-            "color": "#a91e50",
-            "value": 260
         }
     ],
     "forkCount": 19,
-    "starCount": 146,
-    "totalContributions": 2302,
+    "starCount": 147,
+    "totalContributions": 2306,
     "contributionsCollection": {
-        "totalCommitContributions": 2045,
+        "totalCommitContributions": 2048,
         "restrictedContributionsCount": 0,
         "totalIssueContributions": 26,
-        "totalRepositoryContributions": 98,
+        "totalRepositoryContributions": 99,
         "totalPullRequestContributions": 90,
         "totalPullRequestReviewContributions": 36,
         "contributionCalendar": {
-            "totalContributions": 2302,
+            "totalContributions": 2306,
             "weeks": [
                 {
                     "contributionDays": [
@@ -17985,8 +17995,12 @@
                             "date": "2024-06-09"
                         },
                         {
-                            "contributionCount": 0,
+                            "contributionCount": 4,
                             "date": "2024-06-10"
+                        },
+                        {
+                            "contributionCount": 0,
+                            "date": "2024-06-11"
                         }
                     ]
                 }
@@ -17995,5 +18009,5 @@
     },
     "closedIssues": 12,
     "openIssues": 14,
-    "fetchedAt": 1718022854740
+    "fetchedAt": 1718109241383
 }
