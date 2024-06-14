@@ -1,4 +1,4 @@
-# GitHub Repo Template
+# GitHub Stats Template
 
 This repository serves as a template for creating your own GitHub repositories. It includes a scheduled GitHub Action that generates GitHub stats on a daily basis.
 
