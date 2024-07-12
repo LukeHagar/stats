@@ -2,13 +2,13 @@
     "name": "Luke Hagar",
     "avatarUrl": "https://avatars.githubusercontent.com/u/5702154?v=4",
     "username": "LukeHagar",
-    "repoViews": 1463,
-    "linesOfCodeChanged": 12071660,
-    "linesAdded": 8208964,
-    "linesDeleted": 3860792,
-    "linesChanged": 1904,
-    "totalCommits": 2296,
-    "totalPullRequests": 102,
+    "repoViews": 1456,
+    "linesOfCodeChanged": 12071765,
+    "linesAdded": 8209038,
+    "linesDeleted": 3860815,
+    "linesChanged": 1912,
+    "totalCommits": 2307,
+    "totalPullRequests": 103,
     "codeByteTotal": 68515324,
     "topLanguages": [
         {
@@ -52,11 +52,6 @@
             "value": 2356859
         },
         {
-            "languageName": "Swift",
-            "color": "#F05138",
-            "value": 1161101
-        },
-        {
             "languageName": "C#",
             "color": "#178600",
             "value": 993409
@@ -65,6 +60,11 @@
             "languageName": "Makefile",
             "color": "#427819",
             "value": 17547
+        },
+        {
+            "languageName": "Swift",
+            "color": "#F05138",
+            "value": 1161101
         },
         {
             "languageName": "Ruby",
@@ -132,18 +132,18 @@
             "value": 110
         }
     ],
-    "forkCount": 27,
-    "starCount": 170,
-    "totalContributions": 2567,
+    "forkCount": 28,
+    "starCount": 171,
+    "totalContributions": 2580,
     "contributionsCollection": {
-        "totalCommitContributions": 2279,
+        "totalCommitContributions": 2290,
         "restrictedContributionsCount": 0,
         "totalIssueContributions": 26,
-        "totalRepositoryContributions": 104,
-        "totalPullRequestContributions": 102,
+        "totalRepositoryContributions": 105,
+        "totalPullRequestContributions": 103,
         "totalPullRequestReviewContributions": 49,
         "contributionCalendar": {
-            "totalContributions": 2567,
+            "totalContributions": 2580,
             "weeks": [
                 {
                     "contributionDays": [
@@ -18000,7 +18000,7 @@
                             "date": "2024-06-09"
                         },
                         {
-                            "contributionCount": 4,
+                            "contributionCount": 3,
                             "date": "2024-06-10"
                         },
                         {
@@ -18140,8 +18140,12 @@
                             "date": "2024-07-10"
                         },
                         {
-                            "contributionCount": 0,
+                            "contributionCount": 14,
                             "date": "2024-07-11"
+                        },
+                        {
+                            "contributionCount": 0,
+                            "date": "2024-07-12"
                         }
                     ]
                 }
@@ -18150,5 +18154,5 @@
     },
     "closedIssues": 15,
     "openIssues": 11,
-    "fetchedAt": 1720699702186
+    "fetchedAt": 1720786140801
 }
