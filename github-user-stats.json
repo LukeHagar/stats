@@ -2,14 +2,14 @@
     "name": "Luke Hagar",
     "avatarUrl": "https://avatars.githubusercontent.com/u/5702154?v=4",
     "username": "LukeHagar",
-    "repoViews": 1613,
-    "linesOfCodeChanged": 12094735,
-    "linesAdded": 8229551,
-    "linesDeleted": 3863257,
-    "linesChanged": 1927,
-    "totalCommits": 2326,
-    "totalPullRequests": 103,
-    "codeByteTotal": 68515593,
+    "repoViews": 1704,
+    "linesOfCodeChanged": 12113245,
+    "linesAdded": 8232291,
+    "linesDeleted": 3879022,
+    "linesChanged": 1932,
+    "totalCommits": 2330,
+    "totalPullRequests": 104,
+    "codeByteTotal": 70141257,
     "topLanguages": [
         {
             "languageName": "Nix",
@@ -24,12 +24,12 @@
         {
             "languageName": "JavaScript",
             "color": "#f1e05a",
-            "value": 6399365
+            "value": 6676112
         },
         {
             "languageName": "TypeScript",
             "color": "#3178c6",
-            "value": 9627337
+            "value": 10977581
         },
         {
             "languageName": "Mustache",
@@ -49,7 +49,7 @@
         {
             "languageName": "Shell",
             "color": "#89e051",
-            "value": 61623
+            "value": 63884
         },
         {
             "languageName": "C#",
@@ -77,6 +77,11 @@
             "value": 8835240
         },
         {
+            "languageName": "Handlebars",
+            "color": "#f7931e",
+            "value": 1464
+        },
+        {
             "languageName": "Stylus",
             "color": "#ff6347",
             "value": 23924
@@ -99,12 +104,12 @@
         {
             "languageName": "Astro",
             "color": "#ff5a03",
-            "value": 335037
+            "value": 326718
         },
         {
             "languageName": "MDX",
             "color": "#fcb32c",
-            "value": 33786565
+            "value": 33789832
         },
         {
             "languageName": "SCSS",
@@ -133,17 +138,17 @@
         }
     ],
     "forkCount": 28,
-    "starCount": 173,
-    "totalContributions": 2600,
+    "starCount": 176,
+    "totalContributions": 2606,
     "contributionsCollection": {
-        "totalCommitContributions": 2308,
+        "totalCommitContributions": 2312,
         "restrictedContributionsCount": 0,
         "totalIssueContributions": 27,
-        "totalRepositoryContributions": 106,
-        "totalPullRequestContributions": 103,
+        "totalRepositoryContributions": 107,
+        "totalPullRequestContributions": 104,
         "totalPullRequestReviewContributions": 49,
         "contributionCalendar": {
-            "totalContributions": 2600,
+            "totalContributions": 2606,
             "weeks": [
                 {
                     "contributionDays": [
@@ -17884,7 +17889,7 @@
                             "date": "2024-05-15"
                         },
                         {
-                            "contributionCount": 4,
+                            "contributionCount": 3,
                             "date": "2024-05-16"
                         },
                         {
@@ -18168,8 +18173,12 @@
                             "date": "2024-07-16"
                         },
                         {
-                            "contributionCount": 1,
+                            "contributionCount": 2,
                             "date": "2024-07-17"
+                        },
+                        {
+                            "contributionCount": 6,
+                            "date": "2024-07-18"
                         }
                     ]
                 }
@@ -18178,5 +18187,5 @@
     },
     "closedIssues": 15,
     "openIssues": 12,
-    "fetchedAt": 1721218127816
+    "fetchedAt": 1721304542801
 }
