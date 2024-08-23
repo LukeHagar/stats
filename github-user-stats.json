@@ -2,14 +2,14 @@
     "name": "Luke Hagar",
     "avatarUrl": "https://avatars.githubusercontent.com/u/5702154?v=4",
     "username": "LukeHagar",
-    "repoViews": 1345,
-    "linesOfCodeChanged": 12116680,
-    "linesAdded": 8235057,
-    "linesDeleted": 3879613,
-    "linesChanged": 2010,
-    "totalCommits": 2450,
+    "repoViews": 1475,
+    "linesOfCodeChanged": 12116714,
+    "linesAdded": 8235075,
+    "linesDeleted": 3879627,
+    "linesChanged": 2012,
+    "totalCommits": 2452,
     "totalPullRequests": 106,
-    "codeByteTotal": 71752499,
+    "codeByteTotal": 71905345,
     "topLanguages": [
         {
             "languageName": "Nix",
@@ -54,7 +54,7 @@
         {
             "languageName": "C#",
             "color": "#178600",
-            "value": 993409
+            "value": 1146255
         },
         {
             "languageName": "Makefile",
@@ -139,16 +139,16 @@
     ],
     "forkCount": 30,
     "starCount": 188,
-    "totalContributions": 2736,
+    "totalContributions": 2739,
     "contributionsCollection": {
-        "totalCommitContributions": 2433,
+        "totalCommitContributions": 2435,
         "restrictedContributionsCount": 0,
         "totalIssueContributions": 27,
         "totalRepositoryContributions": 109,
         "totalPullRequestContributions": 106,
-        "totalPullRequestReviewContributions": 54,
+        "totalPullRequestReviewContributions": 55,
         "contributionCalendar": {
-            "totalContributions": 2736,
+            "totalContributions": 2739,
             "weeks": [
                 {
                     "contributionDays": [
@@ -18337,8 +18337,12 @@
                             "date": "2024-08-21"
                         },
                         {
-                            "contributionCount": 8,
+                            "contributionCount": 10,
                             "date": "2024-08-22"
+                        },
+                        {
+                            "contributionCount": 1,
+                            "date": "2024-08-23"
                         }
                     ]
                 }
@@ -18347,5 +18351,5 @@
     },
     "closedIssues": 15,
     "openIssues": 12,
-    "fetchedAt": 1724328493218
+    "fetchedAt": 1724414886354
 }
