@@ -2,19 +2,19 @@
     "name": "Luke Hagar",
     "avatarUrl": "https://avatars.githubusercontent.com/u/5702154?v=4",
     "username": "LukeHagar",
-    "repoViews": 1176,
-    "linesOfCodeChanged": 12156538,
-    "linesAdded": 8260338,
-    "linesDeleted": 3894156,
-    "linesChanged": 2044,
-    "totalCommits": 2497,
+    "repoViews": 1200,
+    "linesOfCodeChanged": 12156579,
+    "linesAdded": 8260359,
+    "linesDeleted": 3894173,
+    "linesChanged": 2047,
+    "totalCommits": 2500,
     "totalPullRequests": 107,
-    "codeByteTotal": 72111606,
+    "codeByteTotal": 72111883,
     "topLanguages": [
         {
             "languageName": "TypeScript",
             "color": "#3178c6",
-            "value": 12521671
+            "value": 12521948
         },
         {
             "languageName": "Nix",
@@ -139,16 +139,16 @@
     ],
     "forkCount": 32,
     "starCount": 189,
-    "totalContributions": 2786,
+    "totalContributions": 2789,
     "contributionsCollection": {
-        "totalCommitContributions": 2480,
+        "totalCommitContributions": 2483,
         "restrictedContributionsCount": 0,
         "totalIssueContributions": 27,
         "totalRepositoryContributions": 110,
         "totalPullRequestContributions": 107,
         "totalPullRequestReviewContributions": 55,
         "contributionCalendar": {
-            "totalContributions": 2786,
+            "totalContributions": 2789,
             "weeks": [
                 {
                     "contributionDays": [
@@ -18373,8 +18373,12 @@
                             "date": "2024-08-29"
                         },
                         {
-                            "contributionCount": 2,
+                            "contributionCount": 4,
                             "date": "2024-08-30"
+                        },
+                        {
+                            "contributionCount": 1,
+                            "date": "2024-08-31"
                         }
                     ]
                 }
@@ -18383,5 +18387,5 @@
     },
     "closedIssues": 15,
     "openIssues": 12,
-    "fetchedAt": 1725019712481
+    "fetchedAt": 1725106063473
 }
