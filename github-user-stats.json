@@ -2,19 +2,19 @@
     "name": "Luke Hagar",
     "avatarUrl": "https://avatars.githubusercontent.com/u/5702154?v=4",
     "username": "LukeHagar",
-    "repoViews": 1189,
-    "linesOfCodeChanged": 12908754,
-    "linesAdded": 8735078,
-    "linesDeleted": 4171003,
-    "linesChanged": 2673,
-    "totalCommits": 4426,
-    "totalPullRequests": 138,
-    "codeByteTotal": 84216222,
+    "repoViews": 1211,
+    "linesOfCodeChanged": 12908795,
+    "linesAdded": 8735099,
+    "linesDeleted": 4171020,
+    "linesChanged": 2676,
+    "totalCommits": 4058,
+    "totalPullRequests": 96,
+    "codeByteTotal": 84224021,
     "topLanguages": [
         {
             "languageName": "TypeScript",
             "color": "#3178c6",
-            "value": 16359482
+            "value": 16367281
         },
         {
             "languageName": "Shell",
@@ -134,16 +134,16 @@
     ],
     "forkCount": 47,
     "starCount": 297,
-    "totalContributions": 3811,
+    "totalContributions": 3431,
     "contributionsCollection": {
-        "totalCommitContributions": 3434,
-        "restrictedContributionsCount": 0,
+        "totalCommitContributions": 3014,
+        "restrictedContributionsCount": 108,
         "totalIssueContributions": 31,
         "totalRepositoryContributions": 128,
-        "totalPullRequestContributions": 138,
-        "totalPullRequestReviewContributions": 71,
+        "totalPullRequestContributions": 96,
+        "totalPullRequestReviewContributions": 47,
         "contributionCalendar": {
-            "totalContributions": 3811,
+            "totalContributions": 3431,
             "weeks": [
                 {
                     "contributionDays": [
@@ -17560,7 +17560,7 @@
                             "date": "2024-03-05"
                         },
                         {
-                            "contributionCount": 19,
+                            "contributionCount": 18,
                             "date": "2024-03-06"
                         },
                         {
@@ -17616,11 +17616,11 @@
                             "date": "2024-03-17"
                         },
                         {
-                            "contributionCount": 16,
+                            "contributionCount": 13,
                             "date": "2024-03-18"
                         },
                         {
-                            "contributionCount": 3,
+                            "contributionCount": 2,
                             "date": "2024-03-19"
                         },
                         {
@@ -17628,7 +17628,7 @@
                             "date": "2024-03-20"
                         },
                         {
-                            "contributionCount": 10,
+                            "contributionCount": 1,
                             "date": "2024-03-21"
                         },
                         {
@@ -17648,7 +17648,7 @@
                             "date": "2024-03-24"
                         },
                         {
-                            "contributionCount": 6,
+                            "contributionCount": 0,
                             "date": "2024-03-25"
                         },
                         {
@@ -17660,7 +17660,7 @@
                             "date": "2024-03-27"
                         },
                         {
-                            "contributionCount": 6,
+                            "contributionCount": 4,
                             "date": "2024-03-28"
                         },
                         {
@@ -17684,7 +17684,7 @@
                             "date": "2024-04-01"
                         },
                         {
-                            "contributionCount": 7,
+                            "contributionCount": 5,
                             "date": "2024-04-02"
                         },
                         {
@@ -17752,11 +17752,11 @@
                             "date": "2024-04-16"
                         },
                         {
-                            "contributionCount": 14,
+                            "contributionCount": 7,
                             "date": "2024-04-17"
                         },
                         {
-                            "contributionCount": 4,
+                            "contributionCount": 2,
                             "date": "2024-04-18"
                         },
                         {
@@ -17792,7 +17792,7 @@
                             "date": "2024-04-25"
                         },
                         {
-                            "contributionCount": 6,
+                            "contributionCount": 5,
                             "date": "2024-04-26"
                         },
                         {
@@ -17808,23 +17808,23 @@
                             "date": "2024-04-28"
                         },
                         {
-                            "contributionCount": 3,
+                            "contributionCount": 2,
                             "date": "2024-04-29"
                         },
                         {
-                            "contributionCount": 11,
+                            "contributionCount": 3,
                             "date": "2024-04-30"
                         },
                         {
-                            "contributionCount": 9,
+                            "contributionCount": 1,
                             "date": "2024-05-01"
                         },
                         {
-                            "contributionCount": 4,
+                            "contributionCount": 1,
                             "date": "2024-05-02"
                         },
                         {
-                            "contributionCount": 14,
+                            "contributionCount": 1,
                             "date": "2024-05-03"
                         },
                         {
@@ -17840,23 +17840,23 @@
                             "date": "2024-05-05"
                         },
                         {
-                            "contributionCount": 11,
+                            "contributionCount": 1,
                             "date": "2024-05-06"
                         },
                         {
-                            "contributionCount": 2,
+                            "contributionCount": 1,
                             "date": "2024-05-07"
                         },
                         {
-                            "contributionCount": 21,
+                            "contributionCount": 15,
                             "date": "2024-05-08"
                         },
                         {
-                            "contributionCount": 21,
+                            "contributionCount": 17,
                             "date": "2024-05-09"
                         },
                         {
-                            "contributionCount": 8,
+                            "contributionCount": 7,
                             "date": "2024-05-10"
                         },
                         {
@@ -17872,15 +17872,15 @@
                             "date": "2024-05-12"
                         },
                         {
-                            "contributionCount": 4,
+                            "contributionCount": 2,
                             "date": "2024-05-13"
                         },
                         {
-                            "contributionCount": 6,
+                            "contributionCount": 3,
                             "date": "2024-05-14"
                         },
                         {
-                            "contributionCount": 11,
+                            "contributionCount": 1,
                             "date": "2024-05-15"
                         },
                         {
@@ -17904,7 +17904,7 @@
                             "date": "2024-05-19"
                         },
                         {
-                            "contributionCount": 12,
+                            "contributionCount": 9,
                             "date": "2024-05-20"
                         },
                         {
@@ -17948,7 +17948,7 @@
                             "date": "2024-05-29"
                         },
                         {
-                            "contributionCount": 2,
+                            "contributionCount": 1,
                             "date": "2024-05-30"
                         },
                         {
@@ -17980,11 +17980,11 @@
                             "date": "2024-06-05"
                         },
                         {
-                            "contributionCount": 4,
+                            "contributionCount": 2,
                             "date": "2024-06-06"
                         },
                         {
-                            "contributionCount": 7,
+                            "contributionCount": 4,
                             "date": "2024-06-07"
                         },
                         {
@@ -18000,7 +18000,7 @@
                             "date": "2024-06-09"
                         },
                         {
-                            "contributionCount": 3,
+                            "contributionCount": 2,
                             "date": "2024-06-10"
                         },
                         {
@@ -18008,7 +18008,7 @@
                             "date": "2024-06-11"
                         },
                         {
-                            "contributionCount": 8,
+                            "contributionCount": 3,
                             "date": "2024-06-12"
                         },
                         {
@@ -18016,7 +18016,7 @@
                             "date": "2024-06-13"
                         },
                         {
-                            "contributionCount": 27,
+                            "contributionCount": 26,
                             "date": "2024-06-14"
                         },
                         {
@@ -18032,15 +18032,15 @@
                             "date": "2024-06-16"
                         },
                         {
-                            "contributionCount": 14,
+                            "contributionCount": 13,
                             "date": "2024-06-17"
                         },
                         {
-                            "contributionCount": 5,
+                            "contributionCount": 1,
                             "date": "2024-06-18"
                         },
                         {
-                            "contributionCount": 2,
+                            "contributionCount": 1,
                             "date": "2024-06-19"
                         },
                         {
@@ -18068,11 +18068,11 @@
                             "date": "2024-06-24"
                         },
                         {
-                            "contributionCount": 4,
+                            "contributionCount": 1,
                             "date": "2024-06-25"
                         },
                         {
-                            "contributionCount": 9,
+                            "contributionCount": 4,
                             "date": "2024-06-26"
                         },
                         {
@@ -18080,7 +18080,7 @@
                             "date": "2024-06-27"
                         },
                         {
-                            "contributionCount": 15,
+                            "contributionCount": 3,
                             "date": "2024-06-28"
                         },
                         {
@@ -18096,15 +18096,15 @@
                             "date": "2024-06-30"
                         },
                         {
-                            "contributionCount": 13,
+                            "contributionCount": 10,
                             "date": "2024-07-01"
                         },
                         {
-                            "contributionCount": 7,
+                            "contributionCount": 1,
                             "date": "2024-07-02"
                         },
                         {
-                            "contributionCount": 8,
+                            "contributionCount": 4,
                             "date": "2024-07-03"
                         },
                         {
@@ -18112,7 +18112,7 @@
                             "date": "2024-07-04"
                         },
                         {
-                            "contributionCount": 15,
+                            "contributionCount": 7,
                             "date": "2024-07-05"
                         },
                         {
@@ -18128,15 +18128,15 @@
                             "date": "2024-07-07"
                         },
                         {
-                            "contributionCount": 4,
+                            "contributionCount": 3,
                             "date": "2024-07-08"
                         },
                         {
-                            "contributionCount": 4,
+                            "contributionCount": 2,
                             "date": "2024-07-09"
                         },
                         {
-                            "contributionCount": 3,
+                            "contributionCount": 1,
                             "date": "2024-07-10"
                         },
                         {
@@ -18144,7 +18144,7 @@
                             "date": "2024-07-11"
                         },
                         {
-                            "contributionCount": 3,
+                            "contributionCount": 2,
                             "date": "2024-07-12"
                         },
                         {
@@ -18164,7 +18164,7 @@
                             "date": "2024-07-15"
                         },
                         {
-                            "contributionCount": 6,
+                            "contributionCount": 5,
                             "date": "2024-07-16"
                         },
                         {
@@ -18172,11 +18172,11 @@
                             "date": "2024-07-17"
                         },
                         {
-                            "contributionCount": 10,
+                            "contributionCount": 9,
                             "date": "2024-07-18"
                         },
                         {
-                            "contributionCount": 5,
+                            "contributionCount": 2,
                             "date": "2024-07-19"
                         },
                         {
@@ -18200,7 +18200,7 @@
                             "date": "2024-07-23"
                         },
                         {
-                            "contributionCount": 8,
+                            "contributionCount": 2,
                             "date": "2024-07-24"
                         },
                         {
@@ -18264,15 +18264,15 @@
                             "date": "2024-08-06"
                         },
                         {
-                            "contributionCount": 6,
+                            "contributionCount": 2,
                             "date": "2024-08-07"
                         },
                         {
-                            "contributionCount": 5,
+                            "contributionCount": 3,
                             "date": "2024-08-08"
                         },
                         {
-                            "contributionCount": 5,
+                            "contributionCount": 2,
                             "date": "2024-08-09"
                         },
                         {
@@ -18288,11 +18288,11 @@
                             "date": "2024-08-11"
                         },
                         {
-                            "contributionCount": 3,
+                            "contributionCount": 2,
                             "date": "2024-08-12"
                         },
                         {
-                            "contributionCount": 3,
+                            "contributionCount": 2,
                             "date": "2024-08-13"
                         },
                         {
@@ -18300,11 +18300,11 @@
                             "date": "2024-08-14"
                         },
                         {
-                            "contributionCount": 13,
+                            "contributionCount": 5,
                             "date": "2024-08-15"
                         },
                         {
-                            "contributionCount": 14,
+                            "contributionCount": 4,
                             "date": "2024-08-16"
                         },
                         {
@@ -18356,15 +18356,15 @@
                             "date": "2024-08-26"
                         },
                         {
-                            "contributionCount": 12,
+                            "contributionCount": 8,
                             "date": "2024-08-27"
                         },
                         {
-                            "contributionCount": 5,
+                            "contributionCount": 3,
                             "date": "2024-08-28"
                         },
                         {
-                            "contributionCount": 9,
+                            "contributionCount": 5,
                             "date": "2024-08-29"
                         },
                         {
@@ -18384,23 +18384,23 @@
                             "date": "2024-09-01"
                         },
                         {
-                            "contributionCount": 6,
+                            "contributionCount": 5,
                             "date": "2024-09-02"
                         },
                         {
-                            "contributionCount": 9,
+                            "contributionCount": 8,
                             "date": "2024-09-03"
                         },
                         {
-                            "contributionCount": 10,
+                            "contributionCount": 4,
                             "date": "2024-09-04"
                         },
                         {
-                            "contributionCount": 8,
+                            "contributionCount": 7,
                             "date": "2024-09-05"
                         },
                         {
-                            "contributionCount": 10,
+                            "contributionCount": 4,
                             "date": "2024-09-06"
                         },
                         {
@@ -18416,7 +18416,7 @@
                             "date": "2024-09-08"
                         },
                         {
-                            "contributionCount": 16,
+                            "contributionCount": 14,
                             "date": "2024-09-09"
                         },
                         {
@@ -18456,19 +18456,19 @@
                             "date": "2024-09-17"
                         },
                         {
-                            "contributionCount": 26,
+                            "contributionCount": 16,
                             "date": "2024-09-18"
                         },
                         {
-                            "contributionCount": 15,
+                            "contributionCount": 10,
                             "date": "2024-09-19"
                         },
                         {
-                            "contributionCount": 41,
+                            "contributionCount": 24,
                             "date": "2024-09-20"
                         },
                         {
-                            "contributionCount": 9,
+                            "contributionCount": 4,
                             "date": "2024-09-21"
                         }
                     ]
@@ -18480,23 +18480,23 @@
                             "date": "2024-09-22"
                         },
                         {
-                            "contributionCount": 13,
+                            "contributionCount": 10,
                             "date": "2024-09-23"
                         },
                         {
-                            "contributionCount": 12,
+                            "contributionCount": 8,
                             "date": "2024-09-24"
                         },
                         {
-                            "contributionCount": 21,
+                            "contributionCount": 14,
                             "date": "2024-09-25"
                         },
                         {
-                            "contributionCount": 12,
+                            "contributionCount": 8,
                             "date": "2024-09-26"
                         },
                         {
-                            "contributionCount": 18,
+                            "contributionCount": 14,
                             "date": "2024-09-27"
                         },
                         {
@@ -18512,11 +18512,11 @@
                             "date": "2024-09-29"
                         },
                         {
-                            "contributionCount": 18,
+                            "contributionCount": 17,
                             "date": "2024-09-30"
                         },
                         {
-                            "contributionCount": 13,
+                            "contributionCount": 12,
                             "date": "2024-10-01"
                         },
                         {
@@ -18524,11 +18524,11 @@
                             "date": "2024-10-02"
                         },
                         {
-                            "contributionCount": 21,
+                            "contributionCount": 9,
                             "date": "2024-10-03"
                         },
                         {
-                            "contributionCount": 6,
+                            "contributionCount": 3,
                             "date": "2024-10-04"
                         },
                         {
@@ -18548,19 +18548,19 @@
                             "date": "2024-10-07"
                         },
                         {
-                            "contributionCount": 7,
+                            "contributionCount": 3,
                             "date": "2024-10-08"
                         },
                         {
-                            "contributionCount": 7,
+                            "contributionCount": 3,
                             "date": "2024-10-09"
                         },
                         {
-                            "contributionCount": 8,
+                            "contributionCount": 3,
                             "date": "2024-10-10"
                         },
                         {
-                            "contributionCount": 10,
+                            "contributionCount": 4,
                             "date": "2024-10-11"
                         },
                         {
@@ -18584,15 +18584,15 @@
                             "date": "2024-10-15"
                         },
                         {
-                            "contributionCount": 10,
+                            "contributionCount": 4,
                             "date": "2024-10-16"
                         },
                         {
-                            "contributionCount": 6,
+                            "contributionCount": 3,
                             "date": "2024-10-17"
                         },
                         {
-                            "contributionCount": 10,
+                            "contributionCount": 7,
                             "date": "2024-10-18"
                         },
                         {
@@ -18612,19 +18612,19 @@
                             "date": "2024-10-21"
                         },
                         {
-                            "contributionCount": 5,
+                            "contributionCount": 4,
                             "date": "2024-10-22"
                         },
                         {
-                            "contributionCount": 8,
+                            "contributionCount": 4,
                             "date": "2024-10-23"
                         },
                         {
-                            "contributionCount": 7,
+                            "contributionCount": 4,
                             "date": "2024-10-24"
                         },
                         {
-                            "contributionCount": 19,
+                            "contributionCount": 15,
                             "date": "2024-10-25"
                         },
                         {
@@ -18644,7 +18644,7 @@
                             "date": "2024-10-28"
                         },
                         {
-                            "contributionCount": 5,
+                            "contributionCount": 4,
                             "date": "2024-10-29"
                         },
                         {
@@ -18676,15 +18676,15 @@
                             "date": "2024-11-04"
                         },
                         {
-                            "contributionCount": 7,
+                            "contributionCount": 4,
                             "date": "2024-11-05"
                         },
                         {
-                            "contributionCount": 5,
+                            "contributionCount": 3,
                             "date": "2024-11-06"
                         },
                         {
-                            "contributionCount": 5,
+                            "contributionCount": 4,
                             "date": "2024-11-07"
                         },
                         {
@@ -18704,7 +18704,7 @@
                             "date": "2024-11-10"
                         },
                         {
-                            "contributionCount": 11,
+                            "contributionCount": 10,
                             "date": "2024-11-11"
                         },
                         {
@@ -18712,11 +18712,11 @@
                             "date": "2024-11-12"
                         },
                         {
-                            "contributionCount": 6,
+                            "contributionCount": 4,
                             "date": "2024-11-13"
                         },
                         {
-                            "contributionCount": 7,
+                            "contributionCount": 6,
                             "date": "2024-11-14"
                         },
                         {
@@ -18736,11 +18736,11 @@
                             "date": "2024-11-17"
                         },
                         {
-                            "contributionCount": 17,
+                            "contributionCount": 14,
                             "date": "2024-11-18"
                         },
                         {
-                            "contributionCount": 13,
+                            "contributionCount": 12,
                             "date": "2024-11-19"
                         },
                         {
@@ -18748,11 +18748,11 @@
                             "date": "2024-11-20"
                         },
                         {
-                            "contributionCount": 4,
+                            "contributionCount": 3,
                             "date": "2024-11-21"
                         },
                         {
-                            "contributionCount": 6,
+                            "contributionCount": 5,
                             "date": "2024-11-22"
                         },
                         {
@@ -18808,7 +18808,7 @@
                             "date": "2024-12-03"
                         },
                         {
-                            "contributionCount": 6,
+                            "contributionCount": 3,
                             "date": "2024-12-04"
                         },
                         {
@@ -18840,15 +18840,15 @@
                             "date": "2024-12-10"
                         },
                         {
-                            "contributionCount": 7,
+                            "contributionCount": 4,
                             "date": "2024-12-11"
                         },
                         {
-                            "contributionCount": 6,
+                            "contributionCount": 3,
                             "date": "2024-12-12"
                         },
                         {
-                            "contributionCount": 7,
+                            "contributionCount": 3,
                             "date": "2024-12-13"
                         },
                         {
@@ -18864,7 +18864,7 @@
                             "date": "2024-12-15"
                         },
                         {
-                            "contributionCount": 4,
+                            "contributionCount": 3,
                             "date": "2024-12-16"
                         },
                         {
@@ -18880,7 +18880,7 @@
                             "date": "2024-12-19"
                         },
                         {
-                            "contributionCount": 20,
+                            "contributionCount": 19,
                             "date": "2024-12-20"
                         },
                         {
@@ -18896,7 +18896,7 @@
                             "date": "2024-12-22"
                         },
                         {
-                            "contributionCount": 6,
+                            "contributionCount": 5,
                             "date": "2024-12-23"
                         },
                         {
@@ -19080,7 +19080,7 @@
                             "date": "2025-01-30"
                         },
                         {
-                            "contributionCount": 3,
+                            "contributionCount": 11,
                             "date": "2025-01-31"
                         },
                         {
@@ -19096,8 +19096,12 @@
                             "date": "2025-02-02"
                         },
                         {
-                            "contributionCount": 2,
+                            "contributionCount": 4,
                             "date": "2025-02-03"
+                        },
+                        {
+                            "contributionCount": 2,
+                            "date": "2025-02-04"
                         }
                     ]
                 }
@@ -19106,5 +19110,5 @@
     },
     "closedIssues": 17,
     "openIssues": 14,
-    "fetchedAt": 1738584579497
+    "fetchedAt": 1738671000117
 }
