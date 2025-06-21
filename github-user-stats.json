@@ -2,34 +2,34 @@
     "name": "Luke Hagar",
     "avatarUrl": "https://avatars.githubusercontent.com/u/5702154?v=4",
     "username": "LukeHagar",
-    "repoViews": 1096,
-    "linesOfCodeChanged": 16578466,
-    "linesAdded": 12381552,
-    "linesDeleted": 4193728,
-    "linesChanged": 3186,
-    "totalCommits": 3886,
-    "totalPullRequests": 99,
-    "codeByteTotal": 94005658,
+    "repoViews": 1084,
+    "linesOfCodeChanged": 16578505,
+    "linesAdded": 12381572,
+    "linesDeleted": 4193744,
+    "linesChanged": 3189,
+    "totalCommits": 3889,
+    "totalPullRequests": 100,
+    "codeByteTotal": 97655169,
     "topLanguages": [
         {
             "languageName": "TypeScript",
             "color": "#3178c6",
-            "value": 22475322
+            "value": 22996201
         },
         {
             "languageName": "Shell",
             "color": "#89e051",
-            "value": 66479
+            "value": 66998
         },
         {
             "languageName": "JavaScript",
             "color": "#f1e05a",
-            "value": 6809706
+            "value": 6834991
         },
         {
             "languageName": "Svelte",
             "color": "#ff3e00",
-            "value": 1668374
+            "value": 4582970
         },
         {
             "languageName": "Go",
@@ -72,6 +72,16 @@
             "value": 2294378
         },
         {
+            "languageName": "SCSS",
+            "color": "#c6538c",
+            "value": 585824
+        },
+        {
+            "languageName": "HCL",
+            "color": "#844FBA",
+            "value": 10637
+        },
+        {
             "languageName": "MDX",
             "color": "#fcb32c",
             "value": 34112731
@@ -107,11 +117,6 @@
             "value": 326718
         },
         {
-            "languageName": "SCSS",
-            "color": "#c6538c",
-            "value": 408229
-        },
-        {
             "languageName": "Sass",
             "color": "#a53b70",
             "value": 14540
@@ -132,18 +137,18 @@
             "value": 110
         }
     ],
-    "forkCount": 63,
+    "forkCount": 64,
     "starCount": 367,
-    "totalContributions": 4050,
+    "totalContributions": 4055,
     "contributionsCollection": {
-        "totalCommitContributions": 3612,
+        "totalCommitContributions": 3615,
         "restrictedContributionsCount": 108,
         "totalIssueContributions": 32,
-        "totalRepositoryContributions": 138,
-        "totalPullRequestContributions": 99,
+        "totalRepositoryContributions": 139,
+        "totalPullRequestContributions": 100,
         "totalPullRequestReviewContributions": 53,
         "contributionCalendar": {
-            "totalContributions": 4050,
+            "totalContributions": 4055,
             "weeks": [
                 {
                     "contributionDays": [
@@ -19720,8 +19725,12 @@
                             "date": "2025-06-19"
                         },
                         {
-                            "contributionCount": 2,
+                            "contributionCount": 5,
                             "date": "2025-06-20"
+                        },
+                        {
+                            "contributionCount": 2,
+                            "date": "2025-06-21"
                         }
                     ]
                 }
@@ -19730,5 +19739,5 @@
     },
     "closedIssues": 18,
     "openIssues": 14,
-    "fetchedAt": 1750421482198
+    "fetchedAt": 1750507782253
 }
