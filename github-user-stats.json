@@ -2,12 +2,12 @@
     "name": "Luke Hagar",
     "avatarUrl": "https://avatars.githubusercontent.com/u/5702154?v=4",
     "username": "LukeHagar",
-    "repoViews": 1027,
-    "linesOfCodeChanged": 16617125,
-    "linesAdded": 12403867,
-    "linesDeleted": 4209896,
-    "linesChanged": 3362,
-    "totalCommits": 4254,
+    "repoViews": 1096,
+    "linesOfCodeChanged": 16617164,
+    "linesAdded": 12403887,
+    "linesDeleted": 4209912,
+    "linesChanged": 3365,
+    "totalCommits": 4257,
     "totalPullRequests": 101,
     "codeByteTotal": 97776504,
     "topLanguages": [
@@ -138,17 +138,17 @@
         }
     ],
     "forkCount": 72,
-    "starCount": 382,
-    "totalContributions": 4303,
+    "starCount": 381,
+    "totalContributions": 4306,
     "contributionsCollection": {
-        "totalCommitContributions": 3861,
+        "totalCommitContributions": 3864,
         "restrictedContributionsCount": 109,
         "totalIssueContributions": 32,
         "totalRepositoryContributions": 140,
         "totalPullRequestContributions": 101,
         "totalPullRequestReviewContributions": 52,
         "contributionCalendar": {
-            "totalContributions": 4303,
+            "totalContributions": 4306,
             "weeks": [
                 {
                     "contributionDays": [
@@ -19913,8 +19913,12 @@
                             "date": "2025-07-30"
                         },
                         {
-                            "contributionCount": 2,
+                            "contributionCount": 3,
                             "date": "2025-07-31"
+                        },
+                        {
+                            "contributionCount": 2,
+                            "date": "2025-08-01"
                         }
                     ]
                 }
@@ -19923,5 +19927,5 @@
     },
     "closedIssues": 18,
     "openIssues": 14,
-    "fetchedAt": 1753963849793
+    "fetchedAt": 1754050326185
 }
