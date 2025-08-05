@@ -2,14 +2,14 @@
     "name": "Luke Hagar",
     "avatarUrl": "https://avatars.githubusercontent.com/u/5702154?v=4",
     "username": "LukeHagar",
-    "repoViews": 1248,
-    "linesOfCodeChanged": 16617282,
-    "linesAdded": 12403954,
-    "linesDeleted": 4209954,
-    "linesChanged": 3374,
-    "totalCommits": 4267,
+    "repoViews": 1367,
+    "linesOfCodeChanged": 16617315,
+    "linesAdded": 12403971,
+    "linesDeleted": 4209967,
+    "linesChanged": 3377,
+    "totalCommits": 4270,
     "totalPullRequests": 101,
-    "codeByteTotal": 97816756,
+    "codeByteTotal": 97875659,
     "topLanguages": [
         {
             "languageName": "TypeScript",
@@ -19,7 +19,7 @@
         {
             "languageName": "Shell",
             "color": "#89e051",
-            "value": 66998
+            "value": 69711
         },
         {
             "languageName": "JavaScript",
@@ -39,7 +39,7 @@
         {
             "languageName": "Python",
             "color": "#3572A5",
-            "value": 3565580
+            "value": 3620478
         },
         {
             "languageName": "Mustache",
@@ -54,7 +54,7 @@
         {
             "languageName": "Makefile",
             "color": "#427819",
-            "value": 17617
+            "value": 18415
         },
         {
             "languageName": "Swift",
@@ -70,6 +70,11 @@
             "languageName": "Ruby",
             "color": "#701516",
             "value": 2294378
+        },
+        {
+            "languageName": "Mako",
+            "color": "#7e858d",
+            "value": 494
         },
         {
             "languageName": "SCSS",
@@ -139,16 +144,16 @@
     ],
     "forkCount": 72,
     "starCount": 382,
-    "totalContributions": 4317,
+    "totalContributions": 4321,
     "contributionsCollection": {
-        "totalCommitContributions": 3875,
+        "totalCommitContributions": 3878,
         "restrictedContributionsCount": 109,
         "totalIssueContributions": 32,
-        "totalRepositoryContributions": 140,
+        "totalRepositoryContributions": 141,
         "totalPullRequestContributions": 101,
         "totalPullRequestReviewContributions": 52,
         "contributionCalendar": {
-            "totalContributions": 4317,
+            "totalContributions": 4321,
             "weeks": [
                 {
                     "contributionDays": [
@@ -19933,8 +19938,12 @@
                             "date": "2025-08-03"
                         },
                         {
-                            "contributionCount": 2,
+                            "contributionCount": 4,
                             "date": "2025-08-04"
+                        },
+                        {
+                            "contributionCount": 2,
+                            "date": "2025-08-05"
                         }
                     ]
                 }
@@ -19943,5 +19952,5 @@
     },
     "closedIssues": 18,
     "openIssues": 14,
-    "fetchedAt": 1754309559324
+    "fetchedAt": 1754395969783
 }
