@@ -2,19 +2,19 @@
     "name": "Luke Hagar",
     "avatarUrl": "https://avatars.githubusercontent.com/u/5702154?v=4",
     "username": "LukeHagar",
-    "repoViews": 917,
-    "linesOfCodeChanged": 19800878,
-    "linesAdded": 12484614,
-    "linesDeleted": 7312737,
-    "linesChanged": 3527,
-    "totalCommits": 4479,
+    "repoViews": 876,
+    "linesOfCodeChanged": 19803059,
+    "linesAdded": 12486714,
+    "linesDeleted": 7312804,
+    "linesChanged": 3541,
+    "totalCommits": 4493,
     "totalPullRequests": 103,
-    "codeByteTotal": 107173230,
+    "codeByteTotal": 107175194,
     "topLanguages": [
         {
             "languageName": "TypeScript",
             "color": "#3178c6",
-            "value": 27224813
+            "value": 27226092
         },
         {
             "languageName": "Shell",
@@ -24,12 +24,12 @@
         {
             "languageName": "JavaScript",
             "color": "#f1e05a",
-            "value": 6981772
+            "value": 6982134
         },
         {
             "languageName": "Svelte",
             "color": "#ff3e00",
-            "value": 6115211
+            "value": 6115534
         },
         {
             "languageName": "Go",
@@ -164,16 +164,16 @@
     ],
     "forkCount": 74,
     "starCount": 400,
-    "totalContributions": 4519,
+    "totalContributions": 4534,
     "contributionsCollection": {
-        "totalCommitContributions": 4070,
+        "totalCommitContributions": 4084,
         "restrictedContributionsCount": 109,
         "totalIssueContributions": 32,
-        "totalRepositoryContributions": 145,
+        "totalRepositoryContributions": 146,
         "totalPullRequestContributions": 103,
         "totalPullRequestReviewContributions": 52,
         "contributionCalendar": {
-            "totalContributions": 4519,
+            "totalContributions": 4534,
             "weeks": [
                 {
                     "contributionDays": [
@@ -20066,8 +20066,12 @@
                             "date": "2025-08-27"
                         },
                         {
-                            "contributionCount": 2,
+                            "contributionCount": 15,
                             "date": "2025-08-28"
+                        },
+                        {
+                            "contributionCount": 2,
+                            "date": "2025-08-29"
                         }
                     ]
                 }
@@ -20076,5 +20080,5 @@
     },
     "closedIssues": 18,
     "openIssues": 14,
-    "fetchedAt": 1756383061229
+    "fetchedAt": 1756469446040
 }
