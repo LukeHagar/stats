@@ -2,19 +2,19 @@
     "name": "Luke Hagar",
     "avatarUrl": "https://avatars.githubusercontent.com/u/5702154?v=4",
     "username": "LukeHagar",
-    "repoViews": 961,
-    "linesOfCodeChanged": 21391613,
-    "linesAdded": 13395083,
-    "linesDeleted": 7992628,
-    "linesChanged": 3902,
-    "totalCommits": 4930,
-    "totalPullRequests": 109,
-    "codeByteTotal": 144153291,
+    "repoViews": 936,
+    "linesOfCodeChanged": 21397809,
+    "linesAdded": 13396419,
+    "linesDeleted": 7997479,
+    "linesChanged": 3911,
+    "totalCommits": 4937,
+    "totalPullRequests": 117,
+    "codeByteTotal": 144174889,
     "topLanguages": [
         {
             "languageName": "TypeScript",
             "color": "#3178c6",
-            "value": 45896580
+            "value": 45918178
         },
         {
             "languageName": "JavaScript",
@@ -169,16 +169,16 @@
     ],
     "forkCount": 79,
     "starCount": 427,
-    "totalContributions": 4981,
+    "totalContributions": 5001,
     "contributionsCollection": {
-        "totalCommitContributions": 4506,
+        "totalCommitContributions": 4518,
         "restrictedContributionsCount": 109,
         "totalIssueContributions": 33,
         "totalRepositoryContributions": 162,
-        "totalPullRequestContributions": 109,
+        "totalPullRequestContributions": 117,
         "totalPullRequestReviewContributions": 54,
         "contributionCalendar": {
-            "totalContributions": 4981,
+            "totalContributions": 5001,
             "weeks": [
                 {
                     "contributionDays": [
@@ -20311,8 +20311,12 @@
                 {
                     "contributionDays": [
                         {
-                            "contributionCount": 2,
+                            "contributionCount": 21,
                             "date": "2025-10-19"
+                        },
+                        {
+                            "contributionCount": 1,
+                            "date": "2025-10-20"
                         }
                     ]
                 }
@@ -20321,5 +20325,5 @@
     },
     "closedIssues": 20,
     "openIssues": 13,
-    "fetchedAt": 1760875810568
+    "fetchedAt": 1760962308814
 }
