@@ -10,14 +10,14 @@
   "websiteUrl": "LukeHagar.com",
   "createdAt": "2013-10-16T16:40:20Z",
   "repoViews": 781,
-  "linesOfCodeChanged": 17845687,
-  "linesAdded": 9804201,
-  "linesDeleted": 8041486,
-  "commitCount": 4047,
-  "totalCommits": 5209,
+  "linesOfCodeChanged": 20949419,
+  "linesAdded": 13245658,
+  "linesDeleted": 7703761,
+  "commitCount": 3007,
+  "totalCommits": 5212,
   "totalPullRequests": 125,
   "totalPullRequestReviews": 55,
-  "codeByteTotal": 203403496,
+  "codeByteTotal": 203413295,
   "topLanguages": [
     {
       "languageName": "PowerShell",
@@ -34,7 +34,7 @@
     {
       "languageName": "TypeScript",
       "color": "#3178c6",
-      "value": 32699410,
+      "value": 32709209,
       "percentage": 16.08
     },
     {
@@ -244,14 +244,14 @@
   "repositoriesContributedTo": 19,
   "discussionsStarted": 3,
   "discussionsAnswered": 0,
-  "totalContributions": 5206,
+  "totalContributions": 5208,
   "contributionStats": {
     "longestStreak": 607,
     "currentStreak": 607,
     "mostActiveDay": "Wednesday",
     "averagePerDay": 1.17,
-    "averagePerWeek": 8.2,
-    "averagePerMonth": 35.16,
+    "averagePerWeek": 8.21,
+    "averagePerMonth": 35.17,
     "monthlyBreakdown": [
       {
         "month": "2013-10",
@@ -839,19 +839,175 @@
       },
       {
         "month": "2025-12",
-        "contributions": 12
+        "contributions": 14
       }
     ]
   },
+  "repoStats": {
+    "totalRepos": 164,
+    "publicRepos": 117,
+    "privateRepos": 47,
+    "archivedRepos": 1,
+    "forkedRepos": 46,
+    "originalRepos": 118,
+    "activeRepos": 74,
+    "reposWithStars": 38,
+    "reposCreatedThisYear": 41,
+    "averageStarsPerRepo": 2.68
+  },
+  "computedStats": {
+    "totalRepos": 164,
+    "publicRepos": 117,
+    "privateRepos": 47,
+    "archivedRepos": 1,
+    "forkedRepos": 46,
+    "originalRepos": 118,
+    "activeRepos": 74,
+    "reposWithStars": 38,
+    "reposCreatedThisYear": 41,
+    "averageStarsPerRepo": 2.68,
+    "languageCount": 36,
+    "primaryLanguage": "PowerShell",
+    "primaryLanguageThisYear": "TypeScript",
+    "topLanguagesThisYear": [
+      {
+        "languageName": "TypeScript",
+        "color": "#3178c6",
+        "value": 23914618,
+        "percentage": 31.71
+      },
+      {
+        "languageName": "Java",
+        "color": "#b07219",
+        "value": 18186783,
+        "percentage": 24.12
+      },
+      {
+        "languageName": "Python",
+        "color": "#3572A5",
+        "value": 5607633,
+        "percentage": 7.44
+      },
+      {
+        "languageName": "Svelte",
+        "color": "#ff3e00",
+        "value": 5113189,
+        "percentage": 6.78
+      },
+      {
+        "languageName": "JavaScript",
+        "color": "#f1e05a",
+        "value": 4314248,
+        "percentage": 5.72
+      },
+      {
+        "languageName": "Go",
+        "color": "#00ADD8",
+        "value": 4225201,
+        "percentage": 5.6
+      },
+      {
+        "languageName": "C#",
+        "color": "#178600",
+        "value": 3463481,
+        "percentage": 4.59
+      },
+      {
+        "languageName": "Dart",
+        "color": "#00B4AB",
+        "value": 3129340,
+        "percentage": 4.15
+      },
+      {
+        "languageName": "PHP",
+        "color": "#4F5D95",
+        "value": 2365521,
+        "percentage": 3.14
+      },
+      {
+        "languageName": "Ruby",
+        "color": "#701516",
+        "value": 2293239,
+        "percentage": 3.04
+      }
+    ],
+    "totalTopics": 11,
+    "topTopics": [
+      {
+        "name": "oas",
+        "count": 1
+      },
+      {
+        "name": "openapi",
+        "count": 1
+      },
+      {
+        "name": "plex",
+        "count": 1
+      },
+      {
+        "name": "pms",
+        "count": 1
+      },
+      {
+        "name": "saas",
+        "count": 1
+      },
+      {
+        "name": "svelte",
+        "count": 1
+      },
+      {
+        "name": "sveltekit",
+        "count": 1
+      },
+      {
+        "name": "template",
+        "count": 1
+      },
+      {
+        "name": "powershell",
+        "count": 1
+      },
+      {
+        "name": "helpdesk",
+        "count": 1
+      },
+      {
+        "name": "helpdesk-tools",
+        "count": 1
+      }
+    ],
+    "allTopics": [
+      "helpdesk",
+      "helpdesk-tools",
+      "oas",
+      "openapi",
+      "plex",
+      "pms",
+      "powershell",
+      "saas",
+      "svelte",
+      "sveltekit",
+      "template"
+    ],
+    "contributionsThisYear": 2005,
+    "contributionsLastYear": 1833,
+    "yearOverYearGrowth": 9.38,
+    "mostProductiveMonth": {
+      "month": "2023-04",
+      "contributions": 365
+    }
+  },
   "contributionsCollection": {
-    "totalCommitContributions": 4707,
+    "totalCommitContributions": 4709,
     "restrictedContributionsCount": 109,
     "totalIssueContributions": 36,
     "totalRepositoryContributions": 166,
     "totalPullRequestContributions": 125,
     "totalPullRequestReviewContributions": 55,
     "contributionCalendar": {
-      "totalContributions": 5206,
+      "totalContributions": 5208,
       "weeks": [
         {
           "contributionDays": [
@@ -21192,7 +21348,7 @@
               "date": "2025-12-03"
             },
             {
-              "contributionCount": 4,
+              "contributionCount": 6,
               "date": "2025-12-04"
             }
           ]
@@ -21207,8 +21363,16 @@
       "stars": 70,
       "forks": 23,
       "isArchived": false,
+      "isFork": false,
+      "isPrivate": false,
       "primaryLanguage": null,
-      "updatedAt": "2025-12-04T20:07:40Z",
+      "topics": [
+        "oas",
+        "openapi",
+        "plex",
+        "pms"
+      ],
+      "updatedAt": "2025-12-04T21:07:21Z",
       "createdAt": "2023-03-24T13:33:38Z"
     },
     {
@@ -21217,7 +21381,10 @@
       "stars": 44,
       "forks": 10,
       "isArchived": false,
+      "isFork": false,
+      "isPrivate": false,
       "primaryLanguage": "Svelte",
+      "topics": [],
       "updatedAt": "2025-12-04T10:15:05Z",
       "createdAt": "2023-05-20T00:12:23Z"
     },
@@ -21227,7 +21394,10 @@
       "stars": 44,
       "forks": 3,
       "isArchived": false,
+      "isFork": false,
+      "isPrivate": false,
       "primaryLanguage": "TypeScript",
+      "topics": [],
       "updatedAt": "2025-12-01T01:50:26Z",
       "createdAt": "2023-04-07T01:56:42Z"
     },
@@ -21237,7 +21407,10 @@
       "stars": 42,
       "forks": 1,
       "isArchived": false,
+      "isFork": false,
+      "isPrivate": false,
       "primaryLanguage": "TypeScript",
+      "topics": [],
       "updatedAt": "2025-05-20T17:12:03Z",
       "createdAt": "2024-11-20T02:53:51Z"
     },
@@ -21247,7 +21420,10 @@
       "stars": 34,
       "forks": 6,
       "isArchived": false,
+      "isFork": false,
+      "isPrivate": false,
       "primaryLanguage": "Go",
+      "topics": [],
       "updatedAt": "2025-12-01T00:15:35Z",
       "createdAt": "2023-08-09T14:39:33Z"
     },
@@ -21257,7 +21433,10 @@
       "stars": 26,
       "forks": 2,
       "isArchived": false,
+      "isFork": false,
+      "isPrivate": false,
       "primaryLanguage": "Python",
+      "topics": [],
       "updatedAt": "2025-12-01T00:04:09Z",
       "createdAt": "2023-10-27T01:46:46Z"
     },
@@ -21267,7 +21446,10 @@
       "stars": 22,
       "forks": 6,
       "isArchived": false,
+      "isFork": false,
+      "isPrivate": false,
       "primaryLanguage": "TypeScript",
+      "topics": [],
       "updatedAt": "2025-06-24T05:06:04Z",
       "createdAt": "2023-06-14T15:35:36Z"
     },
@@ -21277,7 +21459,10 @@
       "stars": 20,
       "forks": 0,
       "isArchived": false,
+      "isFork": false,
+      "isPrivate": false,
       "primaryLanguage": "JavaScript",
+      "topics": [],
       "updatedAt": "2025-02-19T21:01:09Z",
       "createdAt": "2023-03-27T17:17:06Z"
     },
@@ -21287,7 +21472,10 @@
       "stars": 19,
       "forks": 6,
       "isArchived": false,
+      "isFork": false,
+      "isPrivate": false,
       "primaryLanguage": "JavaScript",
+      "topics": [],
       "updatedAt": "2025-11-27T18:55:34Z",
       "createdAt": "2024-02-15T21:44:05Z"
     },
@@ -21297,12 +21485,15 @@
       "stars": 16,
       "forks": 5,
       "isArchived": false,
+      "isFork": false,
+      "isPrivate": false,
       "primaryLanguage": "C#",
+      "topics": [],
       "updatedAt": "2025-12-01T00:33:02Z",
       "createdAt": "2023-12-24T05:08:04Z"
     }
   ],
   "closedIssues": 23,
   "openIssues": 13,
-  "fetchedAt": 1764882026240
+  "fetchedAt": 1764883431923
 }
