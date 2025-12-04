@@ -18,11 +18,11 @@ jobs:
       group: stats-concurrency
       cancel-in-progress: true
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v6
 
       - name: profile-stats
         uses: LukeHagar/stats-action@main
         env:
           GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
 
-      - uses: stefanzweifel/git-auto-commit-action@v5
+      - uses: stefanzweifel/git-auto-commit-action@v7
