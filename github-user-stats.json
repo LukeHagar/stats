@@ -9,15 +9,15 @@
   "twitterUsername": null,
   "websiteUrl": "LukeHagar.com",
   "createdAt": "2013-10-16T16:40:20Z",
-  "repoViews": 781,
-  "linesOfCodeChanged": 20949419,
-  "linesAdded": 13245658,
-  "linesDeleted": 7703761,
-  "commitCount": 3007,
-  "totalCommits": 5212,
+  "repoViews": 796,
+  "linesOfCodeChanged": 21506538,
+  "linesAdded": 13437370,
+  "linesDeleted": 8069168,
+  "commitCount": 4092,
+  "totalCommits": 5213,
   "totalPullRequests": 125,
   "totalPullRequestReviews": 55,
-  "codeByteTotal": 203413295,
+  "codeByteTotal": 203413980,
   "topLanguages": [
     {
       "languageName": "PowerShell",
@@ -34,7 +34,7 @@
     {
       "languageName": "TypeScript",
       "color": "#3178c6",
-      "value": 32709209,
+      "value": 32709894,
       "percentage": 16.08
     },
     {
@@ -244,14 +244,14 @@
   "repositoriesContributedTo": 19,
   "discussionsStarted": 3,
   "discussionsAnswered": 0,
-  "totalContributions": 5208,
+  "totalContributions": 5210,
   "contributionStats": {
     "longestStreak": 607,
     "currentStreak": 607,
     "mostActiveDay": "Wednesday",
     "averagePerDay": 1.17,
     "averagePerWeek": 8.21,
-    "averagePerMonth": 35.17,
+    "averagePerMonth": 35.19,
     "monthlyBreakdown": [
       {
         "month": "2013-10",
@@ -839,7 +839,7 @@
       },
       {
         "month": "2025-12",
-        "contributions": 14
+        "contributions": 16
       }
     ]
   },
@@ -873,7 +873,7 @@
       {
         "languageName": "TypeScript",
         "color": "#3178c6",
-        "value": 23914618,
+        "value": 23915303,
         "percentage": 31.71
       },
       {
@@ -991,23 +991,23 @@
       "sveltekit",
       "template"
     ],
-    "contributionsThisYear": 2005,
+    "contributionsThisYear": 2007,
     "contributionsLastYear": 1833,
-    "yearOverYearGrowth": 9.38,
+    "yearOverYearGrowth": 9.49,
     "mostProductiveMonth": {
       "month": "2023-04",
       "contributions": 365
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 4709,
+    "totalCommitContributions": 4711,
     "restrictedContributionsCount": 109,
     "totalIssueContributions": 36,
     "totalRepositoryContributions": 166,
     "totalPullRequestContributions": 125,
     "totalPullRequestReviewContributions": 55,
     "contributionCalendar": {
-      "totalContributions": 5208,
+      "totalContributions": 5210,
       "weeks": [
         {
           "contributionDays": [
@@ -21348,7 +21348,7 @@
               "date": "2025-12-03"
             },
             {
-              "contributionCount": 6,
+              "contributionCount": 8,
               "date": "2025-12-04"
             }
           ]
@@ -21495,5 +21495,5 @@
   ],
   "closedIssues": 23,
   "openIssues": 13,
-  "fetchedAt": 1764883431923
+  "fetchedAt": 1764884271565
 }
