@@ -9,15 +9,15 @@
   "twitterUsername": null,
   "websiteUrl": "LukeHagar.com",
   "createdAt": "2013-10-16T16:40:20Z",
-  "repoViews": 955,
-  "linesOfCodeChanged": 21593332,
-  "linesAdded": 13497432,
-  "linesDeleted": 8095900,
-  "commitCount": 4108,
-  "totalCommits": 5230,
+  "repoViews": 1004,
+  "linesOfCodeChanged": 21594829,
+  "linesAdded": 13498760,
+  "linesDeleted": 8096069,
+  "commitCount": 4113,
+  "totalCommits": 5281,
   "totalPullRequests": 125,
   "totalPullRequestReviews": 56,
-  "codeByteTotal": 203551961,
+  "codeByteTotal": 203559949,
   "topLanguages": [
     {
       "languageName": "PowerShell",
@@ -34,7 +34,7 @@
     {
       "languageName": "TypeScript",
       "color": "#3178c6",
-      "value": 32844161,
+      "value": 32852149,
       "percentage": 16.14
     },
     {
@@ -237,21 +237,21 @@
     }
   ],
   "forkCount": 86,
-  "starCount": 443,
+  "starCount": 442,
   "starsGiven": 536,
   "followers": 60,
   "following": 68,
   "repositoriesContributedTo": 19,
   "discussionsStarted": 3,
   "discussionsAnswered": 0,
-  "totalContributions": 5229,
+  "totalContributions": 5233,
   "contributionStats": {
-    "longestStreak": 610,
-    "currentStreak": 610,
+    "longestStreak": 611,
+    "currentStreak": 611,
     "mostActiveDay": "Wednesday",
     "averagePerDay": 1.18,
-    "averagePerWeek": 8.23,
-    "averagePerMonth": 35.29,
+    "averagePerWeek": 8.24,
+    "averagePerMonth": 35.31,
     "monthlyBreakdown": [
       {
         "month": "2013-10",
@@ -839,7 +839,7 @@
       },
       {
         "month": "2025-12",
-        "contributions": 35
+        "contributions": 39
       }
     ]
   },
@@ -873,8 +873,8 @@
       {
         "languageName": "TypeScript",
         "color": "#3178c6",
-        "value": 24049570,
-        "percentage": 31.83
+        "value": 24057558,
+        "percentage": 31.84
       },
       {
         "languageName": "Java",
@@ -928,7 +928,7 @@
         "languageName": "Ruby",
         "color": "#701516",
         "value": 2293239,
-        "percentage": 3.04
+        "percentage": 3.03
       }
     ],
     "totalTopics": 11,
@@ -991,23 +991,23 @@
       "sveltekit",
       "template"
     ],
-    "contributionsThisYear": 2026,
+    "contributionsThisYear": 2030,
     "contributionsLastYear": 1833,
-    "yearOverYearGrowth": 10.53,
+    "yearOverYearGrowth": 10.75,
     "mostProductiveMonth": {
       "month": "2023-04",
       "contributions": 365
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 4728,
+    "totalCommitContributions": 4732,
     "restrictedContributionsCount": 109,
     "totalIssueContributions": 36,
     "totalRepositoryContributions": 167,
     "totalPullRequestContributions": 125,
     "totalPullRequestReviewContributions": 56,
     "contributionCalendar": {
-      "totalContributions": 5229,
+      "totalContributions": 5233,
       "weeks": [
         {
           "contributionDays": [
@@ -21364,8 +21364,12 @@
         {
           "contributionDays": [
             {
-              "contributionCount": 2,
+              "contributionCount": 3,
               "date": "2025-12-07"
+            },
+            {
+              "contributionCount": 3,
+              "date": "2025-12-08"
             }
           ]
         }
@@ -21388,7 +21392,7 @@
         "plex",
         "pms"
       ],
-      "updatedAt": "2025-12-07T12:10:05Z",
+      "updatedAt": "2025-12-08T12:12:03Z",
       "createdAt": "2023-03-24T13:33:38Z"
     },
     {
@@ -21446,14 +21450,14 @@
     {
       "name": "plexpy",
       "description": "An open source Plex Media Server python SDK",
-      "stars": 27,
+      "stars": 26,
       "forks": 2,
       "isArchived": false,
       "isFork": false,
       "isPrivate": false,
       "primaryLanguage": "Python",
       "topics": [],
-      "updatedAt": "2025-12-06T21:23:13Z",
+      "updatedAt": "2025-12-07T23:01:31Z",
       "createdAt": "2023-10-27T01:46:46Z"
     },
     {
@@ -21511,5 +21515,5 @@
   ],
   "closedIssues": 23,
   "openIssues": 13,
-  "fetchedAt": 1765109420403
+  "fetchedAt": 1765195940871
 }
