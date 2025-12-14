@@ -9,12 +9,12 @@
   "twitterUsername": null,
   "websiteUrl": "LukeHagar.com",
   "createdAt": "2013-10-16T16:40:20Z",
-  "repoViews": 1297,
-  "linesOfCodeChanged": 21599938,
-  "linesAdded": 13501765,
-  "linesDeleted": 8098173,
-  "commitCount": 4153,
-  "totalCommits": 5322,
+  "repoViews": 1255,
+  "linesOfCodeChanged": 21600003,
+  "linesAdded": 13501800,
+  "linesDeleted": 8098203,
+  "commitCount": 4156,
+  "totalCommits": 5326,
   "totalPullRequests": 125,
   "totalPullRequestReviews": 56,
   "codeByteTotal": 203578612,
@@ -237,21 +237,21 @@
     }
   ],
   "forkCount": 86,
-  "starCount": 442,
+  "starCount": 445,
   "starsGiven": 536,
   "followers": 61,
   "following": 68,
   "repositoriesContributedTo": 19,
   "discussionsStarted": 3,
   "discussionsAnswered": 0,
-  "totalContributions": 5276,
+  "totalContributions": 5279,
   "contributionStats": {
-    "longestStreak": 616,
-    "currentStreak": 616,
+    "longestStreak": 617,
+    "currentStreak": 617,
     "mostActiveDay": "Wednesday",
     "averagePerDay": 1.19,
     "averagePerWeek": 8.3,
-    "averagePerMonth": 35.56,
+    "averagePerMonth": 35.57,
     "monthlyBreakdown": [
       {
         "month": "2013-10",
@@ -839,7 +839,7 @@
       },
       {
         "month": "2025-12",
-        "contributions": 80
+        "contributions": 83
       }
     ]
   },
@@ -853,7 +853,7 @@
     "activeRepos": 75,
     "reposWithStars": 39,
     "reposCreatedThisYear": 42,
-    "averageStarsPerRepo": 2.68
+    "averageStarsPerRepo": 2.7
   },
   "computedStats": {
     "totalRepos": 165,
@@ -865,7 +865,7 @@
     "activeRepos": 75,
     "reposWithStars": 39,
     "reposCreatedThisYear": 42,
-    "averageStarsPerRepo": 2.68,
+    "averageStarsPerRepo": 2.7,
     "languageCount": 36,
     "primaryLanguage": "PowerShell",
     "primaryLanguageThisYear": "TypeScript",
@@ -991,23 +991,23 @@
       "sveltekit",
       "template"
     ],
-    "contributionsThisYear": 2073,
+    "contributionsThisYear": 2076,
     "contributionsLastYear": 1833,
-    "yearOverYearGrowth": 13.09,
+    "yearOverYearGrowth": 13.26,
     "mostProductiveMonth": {
       "month": "2023-04",
       "contributions": 365
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 4775,
+    "totalCommitContributions": 4778,
     "restrictedContributionsCount": 109,
     "totalIssueContributions": 36,
     "totalRepositoryContributions": 167,
     "totalPullRequestContributions": 125,
     "totalPullRequestReviewContributions": 56,
     "contributionCalendar": {
-      "totalContributions": 5276,
+      "totalContributions": 5279,
       "weeks": [
         {
           "contributionDays": [
@@ -21388,8 +21388,16 @@
               "date": "2025-12-12"
             },
             {
-              "contributionCount": 22,
+              "contributionCount": 23,
               "date": "2025-12-13"
+            }
+          ]
+        },
+        {
+          "contributionDays": [
+            {
+              "contributionCount": 2,
+              "date": "2025-12-14"
             }
           ]
         }
@@ -21400,7 +21408,7 @@
     {
       "name": "plex-api-spec",
       "description": "A Plex Media Server OpenAPI Specification maintained by the community",
-      "stars": 70,
+      "stars": 71,
       "forks": 23,
       "isArchived": false,
       "isFork": false,
@@ -21412,7 +21420,7 @@
         "plex",
         "pms"
       ],
-      "updatedAt": "2025-12-13T12:10:37Z",
+      "updatedAt": "2025-12-14T12:10:25Z",
       "createdAt": "2023-03-24T13:33:38Z"
     },
     {
@@ -21470,14 +21478,14 @@
     {
       "name": "plexpy",
       "description": "An open source Plex Media Server python SDK",
-      "stars": 26,
+      "stars": 27,
       "forks": 2,
       "isArchived": false,
       "isFork": false,
       "isPrivate": false,
       "primaryLanguage": "Python",
       "topics": [],
-      "updatedAt": "2025-12-07T23:01:31Z",
+      "updatedAt": "2025-12-14T01:03:40Z",
       "createdAt": "2023-10-27T01:46:46Z"
     },
     {
@@ -21494,6 +21502,19 @@
       "createdAt": "2023-06-14T15:35:36Z"
     },
     {
+      "name": "sveltekit-adapters",
+      "description": "A collection of SvelteKit adapters for various platforms and examples on how to use them",
+      "stars": 20,
+      "forks": 6,
+      "isArchived": false,
+      "isFork": false,
+      "isPrivate": false,
+      "primaryLanguage": "JavaScript",
+      "topics": [],
+      "updatedAt": "2025-12-13T20:40:02Z",
+      "createdAt": "2024-02-15T21:44:05Z"
+    },
+    {
       "name": "plex-docs",
       "description": "Open Source Plex Media Server API and SDK Documentation",
       "stars": 20,
@@ -21505,19 +21526,6 @@
       "topics": [],
       "updatedAt": "2025-02-19T21:01:09Z",
       "createdAt": "2023-03-27T17:17:06Z"
-    },
-    {
-      "name": "sveltekit-adapters",
-      "description": "A collection of SvelteKit adapters for various platforms and examples on how to use them",
-      "stars": 19,
-      "forks": 6,
-      "isArchived": false,
-      "isFork": false,
-      "isPrivate": false,
-      "primaryLanguage": "JavaScript",
-      "topics": [],
-      "updatedAt": "2025-11-27T18:55:34Z",
-      "createdAt": "2024-02-15T21:44:05Z"
     },
     {
       "name": "plexcsharp",
@@ -21535,5 +21543,5 @@
   ],
   "closedIssues": 23,
   "openIssues": 13,
-  "fetchedAt": 1765627850245
+  "fetchedAt": 1765714239060
 }
