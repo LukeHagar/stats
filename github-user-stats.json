@@ -9,12 +9,12 @@
   "twitterUsername": null,
   "websiteUrl": "LukeHagar.com",
   "createdAt": "2013-10-16T16:40:20Z",
-  "repoViews": 1026,
-  "linesOfCodeChanged": 21671976,
-  "linesAdded": 13562741,
-  "linesDeleted": 8109235,
-  "commitCount": 4131,
-  "totalCommits": 5376,
+  "repoViews": 1013,
+  "linesOfCodeChanged": 21371560,
+  "linesAdded": 13257104,
+  "linesDeleted": 8114456,
+  "commitCount": 4200,
+  "totalCommits": 5379,
   "totalPullRequests": 128,
   "totalPullRequestReviews": 56,
   "codeByteTotal": 204892546,
@@ -237,21 +237,21 @@
     }
   ],
   "forkCount": 86,
-  "starCount": 448,
+  "starCount": 449,
   "starsGiven": 536,
   "followers": 61,
   "following": 68,
-  "repositoriesContributedTo": 19,
+  "repositoriesContributedTo": 18,
   "discussionsStarted": 3,
   "discussionsAnswered": 0,
-  "totalContributions": 5335,
+  "totalContributions": 5338,
   "contributionStats": {
-    "longestStreak": 623,
-    "currentStreak": 623,
+    "longestStreak": 624,
+    "currentStreak": 624,
     "mostActiveDay": "Wednesday",
     "averagePerDay": 1.2,
     "averagePerWeek": 8.38,
-    "averagePerMonth": 35.9,
+    "averagePerMonth": 35.91,
     "monthlyBreakdown": [
       {
         "month": "2013-10",
@@ -839,7 +839,7 @@
       },
       {
         "month": "2025-12",
-        "contributions": 139
+        "contributions": 142
       }
     ]
   },
@@ -853,7 +853,7 @@
     "activeRepos": 77,
     "reposWithStars": 39,
     "reposCreatedThisYear": 44,
-    "averageStarsPerRepo": 2.68
+    "averageStarsPerRepo": 2.69
   },
   "computedStats": {
     "totalRepos": 167,
@@ -865,7 +865,7 @@
     "activeRepos": 77,
     "reposWithStars": 39,
     "reposCreatedThisYear": 44,
-    "averageStarsPerRepo": 2.68,
+    "averageStarsPerRepo": 2.69,
     "languageCount": 36,
     "primaryLanguage": "PowerShell",
     "primaryLanguageThisYear": "TypeScript",
@@ -991,23 +991,23 @@
       "sveltekit",
       "template"
     ],
-    "contributionsThisYear": 2132,
+    "contributionsThisYear": 2135,
     "contributionsLastYear": 1833,
-    "yearOverYearGrowth": 16.31,
+    "yearOverYearGrowth": 16.48,
     "mostProductiveMonth": {
       "month": "2023-04",
       "contributions": 365
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 4829,
+    "totalCommitContributions": 4832,
     "restrictedContributionsCount": 109,
     "totalIssueContributions": 36,
     "totalRepositoryContributions": 169,
     "totalPullRequestContributions": 128,
     "totalPullRequestReviewContributions": 56,
     "contributionCalendar": {
-      "totalContributions": 5335,
+      "totalContributions": 5338,
       "weeks": [
         {
           "contributionDays": [
@@ -21420,8 +21420,16 @@
               "date": "2025-12-19"
             },
             {
-              "contributionCount": 2,
+              "contributionCount": 3,
               "date": "2025-12-20"
+            }
+          ]
+        },
+        {
+          "contributionDays": [
+            {
+              "contributionCount": 2,
+              "date": "2025-12-21"
             }
           ]
         }
@@ -21444,7 +21452,7 @@
         "plex",
         "pms"
       ],
-      "updatedAt": "2025-12-20T11:06:26Z",
+      "updatedAt": "2025-12-21T11:06:43Z",
       "createdAt": "2023-03-24T13:33:38Z"
     },
     {
@@ -21565,7 +21573,7 @@
       "createdAt": "2023-12-24T05:08:04Z"
     }
   ],
-  "closedIssues": 23,
-  "openIssues": 13,
-  "fetchedAt": 1766232643989
+  "closedIssues": 24,
+  "openIssues": 12,
+  "fetchedAt": 1766319063358
 }
