@@ -9,12 +9,12 @@
   "twitterUsername": null,
   "websiteUrl": "LukeHagar.com",
   "createdAt": "2013-10-16T16:40:20Z",
-  "repoViews": 5581,
-  "linesOfCodeChanged": 21702063,
-  "linesAdded": 13579488,
-  "linesDeleted": 8122575,
-  "commitCount": 4239,
-  "totalCommits": 5418,
+  "repoViews": 5549,
+  "linesOfCodeChanged": 21702200,
+  "linesAdded": 13579559,
+  "linesDeleted": 8122641,
+  "commitCount": 4242,
+  "totalCommits": 5419,
   "totalPullRequests": 130,
   "totalPullRequestReviews": 57,
   "codeByteTotal": 205135669,
@@ -237,21 +237,21 @@
     }
   ],
   "forkCount": 86,
-  "starCount": 451,
+  "starCount": 452,
   "starsGiven": 536,
   "followers": 61,
   "following": 68,
   "repositoriesContributedTo": 17,
   "discussionsStarted": 3,
   "discussionsAnswered": 0,
-  "totalContributions": 5380,
+  "totalContributions": 5383,
   "contributionStats": {
-    "longestStreak": 628,
-    "currentStreak": 628,
+    "longestStreak": 629,
+    "currentStreak": 629,
     "mostActiveDay": "Wednesday",
     "averagePerDay": 1.21,
     "averagePerWeek": 8.44,
-    "averagePerMonth": 36.16,
+    "averagePerMonth": 36.18,
     "monthlyBreakdown": [
       {
         "month": "2013-10",
@@ -839,7 +839,7 @@
       },
       {
         "month": "2025-12",
-        "contributions": 183
+        "contributions": 186
       }
     ]
   },
@@ -853,7 +853,7 @@
     "activeRepos": 78,
     "reposWithStars": 39,
     "reposCreatedThisYear": 45,
-    "averageStarsPerRepo": 2.68
+    "averageStarsPerRepo": 2.69
   },
   "computedStats": {
     "totalRepos": 168,
@@ -865,7 +865,7 @@
     "activeRepos": 78,
     "reposWithStars": 39,
     "reposCreatedThisYear": 45,
-    "averageStarsPerRepo": 2.68,
+    "averageStarsPerRepo": 2.69,
     "languageCount": 36,
     "primaryLanguage": "PowerShell",
     "primaryLanguageThisYear": "TypeScript",
@@ -991,23 +991,23 @@
       "sveltekit",
       "template"
     ],
-    "contributionsThisYear": 2177,
+    "contributionsThisYear": 2180,
     "contributionsLastYear": 1833,
-    "yearOverYearGrowth": 18.77,
+    "yearOverYearGrowth": 18.93,
     "mostProductiveMonth": {
       "month": "2023-04",
       "contributions": 365
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 4870,
+    "totalCommitContributions": 4873,
     "restrictedContributionsCount": 109,
     "totalIssueContributions": 36,
     "totalRepositoryContributions": 170,
     "totalPullRequestContributions": 130,
     "totalPullRequestReviewContributions": 57,
     "contributionCalendar": {
-      "totalContributions": 5380,
+      "totalContributions": 5383,
       "weeks": [
         {
           "contributionDays": [
@@ -21444,8 +21444,12 @@
               "date": "2025-12-24"
             },
             {
-              "contributionCount": 2,
+              "contributionCount": 3,
               "date": "2025-12-25"
+            },
+            {
+              "contributionCount": 2,
+              "date": "2025-12-26"
             }
           ]
         }
@@ -21468,7 +21472,7 @@
         "plex",
         "pms"
       ],
-      "updatedAt": "2025-12-25T11:07:34Z",
+      "updatedAt": "2025-12-26T12:09:46Z",
       "createdAt": "2023-03-24T13:33:38Z"
     },
     {
@@ -21537,6 +21541,19 @@
       "createdAt": "2023-10-27T01:46:46Z"
     },
     {
+      "name": "sveltekit-adapters",
+      "description": "A collection of SvelteKit adapters for various platforms and examples on how to use them",
+      "stars": 22,
+      "forks": 6,
+      "isArchived": false,
+      "isFork": false,
+      "isPrivate": false,
+      "primaryLanguage": "JavaScript",
+      "topics": [],
+      "updatedAt": "2025-12-26T05:51:47Z",
+      "createdAt": "2024-02-15T21:44:05Z"
+    },
+    {
       "name": "archives-of-nethys-scraper",
       "description": "A simple tool to gather datasets from archives of nethys",
       "stars": 22,
@@ -21548,19 +21565,6 @@
       "topics": [],
       "updatedAt": "2025-06-24T05:06:04Z",
       "createdAt": "2023-06-14T15:35:36Z"
-    },
-    {
-      "name": "sveltekit-adapters",
-      "description": "A collection of SvelteKit adapters for various platforms and examples on how to use them",
-      "stars": 21,
-      "forks": 6,
-      "isArchived": false,
-      "isFork": false,
-      "isPrivate": false,
-      "primaryLanguage": "JavaScript",
-      "topics": [],
-      "updatedAt": "2025-12-18T22:21:45Z",
-      "createdAt": "2024-02-15T21:44:05Z"
     },
     {
       "name": "plex-docs",
@@ -21591,5 +21595,5 @@
   ],
   "closedIssues": 24,
   "openIssues": 12,
-  "fetchedAt": 1766664740809
+  "fetchedAt": 1766751139844
 }
