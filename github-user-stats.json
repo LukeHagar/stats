@@ -9,12 +9,12 @@
   "twitterUsername": null,
   "websiteUrl": "LukeHagar.com",
   "createdAt": "2013-10-16T16:40:20Z",
-  "repoViews": 5473,
-  "linesOfCodeChanged": 21411433,
-  "linesAdded": 13516137,
-  "linesDeleted": 7895296,
-  "commitCount": 4347,
-  "totalCommits": 5444,
+  "repoViews": 5509,
+  "linesOfCodeChanged": 21411564,
+  "linesAdded": 13516195,
+  "linesDeleted": 7895369,
+  "commitCount": 4350,
+  "totalCommits": 5447,
   "totalPullRequests": 131,
   "totalPullRequestReviews": 57,
   "codeByteTotal": 204814507,
@@ -237,21 +237,21 @@
     }
   ],
   "forkCount": 86,
-  "starCount": 453,
-  "starsGiven": 538,
+  "starCount": 455,
+  "starsGiven": 540,
   "followers": 61,
   "following": 69,
-  "repositoriesContributedTo": 17,
+  "repositoriesContributedTo": 18,
   "discussionsStarted": 3,
   "discussionsAnswered": 0,
-  "totalContributions": 5410,
+  "totalContributions": 5415,
   "contributionStats": {
-    "longestStreak": 636,
-    "currentStreak": 636,
+    "longestStreak": 637,
+    "currentStreak": 637,
     "mostActiveDay": "Wednesday",
     "averagePerDay": 1.21,
-    "averagePerWeek": 8.47,
-    "averagePerMonth": 36.3,
+    "averagePerWeek": 8.48,
+    "averagePerMonth": 36.33,
     "monthlyBreakdown": [
       {
         "month": "2013-10",
@@ -843,7 +843,7 @@
       },
       {
         "month": "2026-01",
-        "contributions": 4
+        "contributions": 9
       }
     ]
   },
@@ -854,10 +854,10 @@
     "archivedRepos": 1,
     "forkedRepos": 46,
     "originalRepos": 122,
-    "activeRepos": 3,
+    "activeRepos": 5,
     "reposWithStars": 39,
     "reposCreatedThisYear": 0,
-    "averageStarsPerRepo": 2.7
+    "averageStarsPerRepo": 2.71
   },
   "computedStats": {
     "totalRepos": 168,
@@ -866,37 +866,37 @@
     "archivedRepos": 1,
     "forkedRepos": 46,
     "originalRepos": 122,
-    "activeRepos": 3,
+    "activeRepos": 5,
     "reposWithStars": 39,
     "reposCreatedThisYear": 0,
-    "averageStarsPerRepo": 2.7,
+    "averageStarsPerRepo": 2.71,
     "languageCount": 36,
     "primaryLanguage": "PowerShell",
-    "primaryLanguageThisYear": "JavaScript",
+    "primaryLanguageThisYear": "TypeScript",
     "topLanguagesThisYear": [
-      {
-        "languageName": "JavaScript",
-        "color": "#f1e05a",
-        "value": 2643879,
-        "percentage": 88.69
-      },
       {
         "languageName": "TypeScript",
         "color": "#3178c6",
-        "value": 335335,
-        "percentage": 11.25
+        "value": 3830761,
+        "percentage": 59.14
+      },
+      {
+        "languageName": "JavaScript",
+        "color": "#f1e05a",
+        "value": 2644561,
+        "percentage": 40.83
       },
       {
         "languageName": "HTML",
         "color": "#e34c26",
         "value": 1280,
-        "percentage": 0.04
+        "percentage": 0.02
       },
       {
         "languageName": "Dockerfile",
         "color": "#384d54",
         "value": 500,
-        "percentage": 0.02
+        "percentage": 0.01
       },
       {
         "languageName": "CSS",
@@ -965,23 +965,23 @@
       "sveltekit",
       "template"
     ],
-    "contributionsThisYear": 4,
+    "contributionsThisYear": 9,
     "contributionsLastYear": 2203,
-    "yearOverYearGrowth": -99.82,
+    "yearOverYearGrowth": -99.59,
     "mostProductiveMonth": {
       "month": "2023-04",
       "contributions": 365
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 4899,
+    "totalCommitContributions": 4904,
     "restrictedContributionsCount": 109,
     "totalIssueContributions": 36,
     "totalRepositoryContributions": 170,
     "totalPullRequestContributions": 131,
     "totalPullRequestReviewContributions": 57,
     "contributionCalendar": {
-      "totalContributions": 5410,
+      "totalContributions": 5415,
       "weeks": [
         {
           "contributionDays": [
@@ -21450,7 +21450,7 @@
               "date": "2025-12-31"
             },
             {
-              "contributionCount": 2,
+              "contributionCount": 3,
               "date": "2026-01-01"
             }
           ]
@@ -21458,8 +21458,12 @@
         {
           "contributionDays": [
             {
-              "contributionCount": 2,
+              "contributionCount": 3,
               "date": "2026-01-01"
+            },
+            {
+              "contributionCount": 3,
+              "date": "2026-01-02"
             }
           ]
         }
@@ -21470,7 +21474,7 @@
     {
       "name": "plex-api-spec",
       "description": "A Plex Media Server OpenAPI Specification maintained by the community",
-      "stars": 72,
+      "stars": 73,
       "forks": 23,
       "isArchived": false,
       "isFork": false,
@@ -21482,8 +21486,21 @@
         "plex",
         "pms"
       ],
-      "updatedAt": "2026-01-01T11:07:42Z",
+      "updatedAt": "2026-01-02T11:07:48Z",
       "createdAt": "2023-03-24T13:33:38Z"
+    },
+    {
+      "name": "plexjs",
+      "description": "A Typescript SDK for interacting with Plex Media Server",
+      "stars": 45,
+      "forks": 3,
+      "isArchived": false,
+      "isFork": false,
+      "isPrivate": false,
+      "primaryLanguage": "TypeScript",
+      "topics": [],
+      "updatedAt": "2026-01-01T13:04:12Z",
+      "createdAt": "2023-04-07T01:56:42Z"
     },
     {
       "name": "sveltekit-extension-template",
@@ -21497,19 +21514,6 @@
       "topics": [],
       "updatedAt": "2025-12-04T10:15:05Z",
       "createdAt": "2023-05-20T00:12:23Z"
-    },
-    {
-      "name": "plexjs",
-      "description": "A Typescript SDK for interacting with Plex Media Server",
-      "stars": 44,
-      "forks": 3,
-      "isArchived": false,
-      "isFork": false,
-      "isPrivate": false,
-      "primaryLanguage": "TypeScript",
-      "topics": [],
-      "updatedAt": "2025-12-27T00:14:50Z",
-      "createdAt": "2023-04-07T01:56:42Z"
     },
     {
       "name": "Coolify-TypeScript-SDK",
@@ -21603,7 +21607,7 @@
       "createdAt": "2023-12-24T05:08:04Z"
     }
   ],
-  "closedIssues": 24,
-  "openIssues": 12,
-  "fetchedAt": 1767269553715
+  "closedIssues": 25,
+  "openIssues": 11,
+  "fetchedAt": 1767355934423
 }
