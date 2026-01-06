@@ -9,15 +9,15 @@
   "twitterUsername": null,
   "websiteUrl": "LukeHagar.com",
   "createdAt": "2013-10-16T16:40:20Z",
-  "repoViews": 5536,
-  "linesOfCodeChanged": 21418373,
-  "linesAdded": 13522773,
-  "linesDeleted": 7895600,
-  "commitCount": 4362,
-  "totalCommits": 5460,
+  "repoViews": 5516,
+  "linesOfCodeChanged": 21280668,
+  "linesAdded": 13435579,
+  "linesDeleted": 7845089,
+  "commitCount": 4328,
+  "totalCommits": 5475,
   "totalPullRequests": 131,
   "totalPullRequestReviews": 57,
-  "codeByteTotal": 204968326,
+  "codeByteTotal": 204978372,
   "topLanguages": [
     {
       "languageName": "PowerShell",
@@ -130,8 +130,8 @@
     {
       "languageName": "YAML",
       "color": "#cb171e",
-      "value": 129727,
-      "percentage": 0.06
+      "value": 139773,
+      "percentage": 0.07
     },
     {
       "languageName": "Kotlin",
@@ -267,21 +267,21 @@
     }
   ],
   "forkCount": 87,
-  "starCount": 456,
+  "starCount": 458,
   "starsGiven": 543,
-  "followers": 61,
+  "followers": 60,
   "following": 71,
   "repositoriesContributedTo": 18,
   "discussionsStarted": 3,
   "discussionsAnswered": 0,
-  "totalContributions": 5428,
+  "totalContributions": 5443,
   "contributionStats": {
-    "longestStreak": 640,
-    "currentStreak": 640,
+    "longestStreak": 641,
+    "currentStreak": 641,
     "mostActiveDay": "Wednesday",
-    "averagePerDay": 1.21,
-    "averagePerWeek": 8.49,
-    "averagePerMonth": 36.39,
+    "averagePerDay": 1.22,
+    "averagePerWeek": 8.51,
+    "averagePerMonth": 36.48,
     "monthlyBreakdown": [
       {
         "month": "2013-10",
@@ -873,7 +873,7 @@
       },
       {
         "month": "2026-01",
-        "contributions": 22
+        "contributions": 37
       }
     ]
   },
@@ -887,7 +887,7 @@
     "activeRepos": 7,
     "reposWithStars": 40,
     "reposCreatedThisYear": 1,
-    "averageStarsPerRepo": 2.7
+    "averageStarsPerRepo": 2.71
   },
   "computedStats": {
     "totalRepos": 169,
@@ -899,7 +899,7 @@
     "activeRepos": 7,
     "reposWithStars": 40,
     "reposCreatedThisYear": 1,
-    "averageStarsPerRepo": 2.7,
+    "averageStarsPerRepo": 2.71,
     "languageCount": 41,
     "primaryLanguage": "PowerShell",
     "primaryLanguageThisYear": "TypeScript",
@@ -908,19 +908,19 @@
         "languageName": "TypeScript",
         "color": "#3178c6",
         "value": 5857552,
-        "percentage": 67.65
+        "percentage": 67.57
       },
       {
         "languageName": "JavaScript",
         "color": "#f1e05a",
         "value": 2645243,
-        "percentage": 30.55
+        "percentage": 30.51
       },
       {
         "languageName": "YAML",
         "color": "#cb171e",
-        "value": 129727,
-        "percentage": 1.5
+        "value": 139773,
+        "percentage": 1.61
       },
       {
         "languageName": "Shell",
@@ -1025,23 +1025,23 @@
       "sveltekit",
       "template"
     ],
-    "contributionsThisYear": 22,
+    "contributionsThisYear": 37,
     "contributionsLastYear": 2203,
-    "yearOverYearGrowth": -99,
+    "yearOverYearGrowth": -98.32,
     "mostProductiveMonth": {
       "month": "2023-04",
       "contributions": 365
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 4916,
+    "totalCommitContributions": 4931,
     "restrictedContributionsCount": 109,
     "totalIssueContributions": 36,
     "totalRepositoryContributions": 171,
     "totalPullRequestContributions": 131,
     "totalPullRequestReviewContributions": 57,
     "contributionCalendar": {
-      "totalContributions": 5428,
+      "totalContributions": 5443,
       "weeks": [
         {
           "contributionDays": [
@@ -21538,8 +21538,12 @@
               "date": "2026-01-04"
             },
             {
-              "contributionCount": 2,
+              "contributionCount": 15,
               "date": "2026-01-05"
+            },
+            {
+              "contributionCount": 2,
+              "date": "2026-01-06"
             }
           ]
         }
@@ -21550,7 +21554,7 @@
     {
       "name": "plex-api-spec",
       "description": "A Plex Media Server OpenAPI Specification maintained by the community",
-      "stars": 73,
+      "stars": 74,
       "forks": 23,
       "isArchived": false,
       "isFork": false,
@@ -21562,7 +21566,7 @@
         "plex",
         "pms"
       ],
-      "updatedAt": "2026-01-05T11:08:03Z",
+      "updatedAt": "2026-01-06T11:08:08Z",
       "createdAt": "2023-03-24T13:33:38Z"
     },
     {
@@ -21685,5 +21689,5 @@
   ],
   "closedIssues": 25,
   "openIssues": 11,
-  "fetchedAt": 1767615184381
+  "fetchedAt": 1767701569769
 }
