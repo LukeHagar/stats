@@ -9,12 +9,12 @@
   "twitterUsername": null,
   "websiteUrl": "LukeHagar.com",
   "createdAt": "2013-10-16T16:40:20Z",
-  "repoViews": 5516,
-  "linesOfCodeChanged": 21280668,
-  "linesAdded": 13435579,
-  "linesDeleted": 7845089,
-  "commitCount": 4328,
-  "totalCommits": 5475,
+  "repoViews": 5534,
+  "linesOfCodeChanged": 21392604,
+  "linesAdded": 13509487,
+  "linesDeleted": 7883117,
+  "commitCount": 4322,
+  "totalCommits": 5477,
   "totalPullRequests": 131,
   "totalPullRequestReviews": 57,
   "codeByteTotal": 204978372,
@@ -267,21 +267,21 @@
     }
   ],
   "forkCount": 87,
-  "starCount": 458,
+  "starCount": 459,
   "starsGiven": 543,
-  "followers": 60,
+  "followers": 59,
   "following": 71,
   "repositoriesContributedTo": 18,
   "discussionsStarted": 3,
   "discussionsAnswered": 0,
-  "totalContributions": 5443,
+  "totalContributions": 5446,
   "contributionStats": {
-    "longestStreak": 641,
-    "currentStreak": 641,
+    "longestStreak": 642,
+    "currentStreak": 642,
     "mostActiveDay": "Wednesday",
     "averagePerDay": 1.22,
-    "averagePerWeek": 8.51,
-    "averagePerMonth": 36.48,
+    "averagePerWeek": 8.52,
+    "averagePerMonth": 36.49,
     "monthlyBreakdown": [
       {
         "month": "2013-10",
@@ -873,7 +873,7 @@
       },
       {
         "month": "2026-01",
-        "contributions": 37
+        "contributions": 40
       }
     ]
   },
@@ -884,10 +884,10 @@
     "archivedRepos": 1,
     "forkedRepos": 46,
     "originalRepos": 123,
-    "activeRepos": 7,
+    "activeRepos": 8,
     "reposWithStars": 40,
     "reposCreatedThisYear": 1,
-    "averageStarsPerRepo": 2.71
+    "averageStarsPerRepo": 2.72
   },
   "computedStats": {
     "totalRepos": 169,
@@ -896,10 +896,10 @@
     "archivedRepos": 1,
     "forkedRepos": 46,
     "originalRepos": 123,
-    "activeRepos": 7,
+    "activeRepos": 8,
     "reposWithStars": 40,
     "reposCreatedThisYear": 1,
-    "averageStarsPerRepo": 2.71,
+    "averageStarsPerRepo": 2.72,
     "languageCount": 41,
     "primaryLanguage": "PowerShell",
     "primaryLanguageThisYear": "TypeScript",
@@ -908,37 +908,43 @@
         "languageName": "TypeScript",
         "color": "#3178c6",
         "value": 5857552,
-        "percentage": 67.57
+        "percentage": 48.28
+      },
+      {
+        "languageName": "C#",
+        "color": "#178600",
+        "value": 3463550,
+        "percentage": 28.54
       },
       {
         "languageName": "JavaScript",
         "color": "#f1e05a",
         "value": 2645243,
-        "percentage": 30.51
+        "percentage": 21.8
       },
       {
         "languageName": "YAML",
         "color": "#cb171e",
         "value": 139773,
-        "percentage": 1.61
+        "percentage": 1.15
       },
       {
         "languageName": "Shell",
         "color": "#89e051",
         "value": 9898,
-        "percentage": 0.11
+        "percentage": 0.08
       },
       {
         "languageName": "Python",
         "color": "#3572A5",
         "value": 6022,
-        "percentage": 0.07
+        "percentage": 0.05
       },
       {
         "languageName": "JSON5",
         "color": "#267CB9",
         "value": 5535,
-        "percentage": 0.06
+        "percentage": 0.05
       },
       {
         "languageName": "CUE",
@@ -950,18 +956,12 @@
         "languageName": "TOML",
         "color": "#9c4221",
         "value": 1332,
-        "percentage": 0.02
+        "percentage": 0.01
       },
       {
         "languageName": "HTML",
         "color": "#e34c26",
         "value": 1280,
-        "percentage": 0.01
-      },
-      {
-        "languageName": "Dockerfile",
-        "color": "#384d54",
-        "value": 500,
         "percentage": 0.01
       }
     ],
@@ -1025,23 +1025,23 @@
       "sveltekit",
       "template"
     ],
-    "contributionsThisYear": 37,
+    "contributionsThisYear": 40,
     "contributionsLastYear": 2203,
-    "yearOverYearGrowth": -98.32,
+    "yearOverYearGrowth": -98.18,
     "mostProductiveMonth": {
       "month": "2023-04",
       "contributions": 365
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 4931,
+    "totalCommitContributions": 4934,
     "restrictedContributionsCount": 109,
     "totalIssueContributions": 36,
     "totalRepositoryContributions": 171,
     "totalPullRequestContributions": 131,
     "totalPullRequestReviewContributions": 57,
     "contributionCalendar": {
-      "totalContributions": 5443,
+      "totalContributions": 5446,
       "weeks": [
         {
           "contributionDays": [
@@ -21542,8 +21542,12 @@
               "date": "2026-01-05"
             },
             {
-              "contributionCount": 2,
+              "contributionCount": 3,
               "date": "2026-01-06"
+            },
+            {
+              "contributionCount": 2,
+              "date": "2026-01-07"
             }
           ]
         }
@@ -21566,7 +21570,7 @@
         "plex",
         "pms"
       ],
-      "updatedAt": "2026-01-06T11:08:08Z",
+      "updatedAt": "2026-01-07T11:08:22Z",
       "createdAt": "2023-03-24T13:33:38Z"
     },
     {
@@ -21676,18 +21680,18 @@
     {
       "name": "plexcsharp",
       "description": "An open source Plex Media Server C# SDK",
-      "stars": 16,
+      "stars": 17,
       "forks": 5,
       "isArchived": false,
       "isFork": false,
       "isPrivate": false,
       "primaryLanguage": "C#",
       "topics": [],
-      "updatedAt": "2025-12-26T20:31:39Z",
+      "updatedAt": "2026-01-07T11:32:38Z",
       "createdAt": "2023-12-24T05:08:04Z"
     }
   ],
   "closedIssues": 25,
   "openIssues": 11,
-  "fetchedAt": 1767701569769
+  "fetchedAt": 1767787978564
 }
