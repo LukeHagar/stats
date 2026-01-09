@@ -9,15 +9,15 @@
   "twitterUsername": null,
   "websiteUrl": "LukeHagar.com",
   "createdAt": "2013-10-16T16:40:20Z",
-  "repoViews": 3168,
-  "linesOfCodeChanged": 21419078,
-  "linesAdded": 13523326,
-  "linesDeleted": 7895752,
-  "commitCount": 4383,
-  "totalCommits": 5480,
-  "totalPullRequests": 132,
+  "repoViews": 801,
+  "linesOfCodeChanged": 21419744,
+  "linesAdded": 13523841,
+  "linesDeleted": 7895903,
+  "commitCount": 4392,
+  "totalCommits": 5486,
+  "totalPullRequests": 134,
   "totalPullRequestReviews": 57,
-  "codeByteTotal": 204978372,
+  "codeByteTotal": 204988174,
   "topLanguages": [
     {
       "languageName": "PowerShell",
@@ -130,7 +130,7 @@
     {
       "languageName": "YAML",
       "color": "#cb171e",
-      "value": 139773,
+      "value": 149575,
       "percentage": 0.07
     },
     {
@@ -274,14 +274,14 @@
   "repositoriesContributedTo": 18,
   "discussionsStarted": 3,
   "discussionsAnswered": 0,
-  "totalContributions": 5450,
+  "totalContributions": 5463,
   "contributionStats": {
-    "longestStreak": 643,
-    "currentStreak": 643,
+    "longestStreak": 644,
+    "currentStreak": 644,
     "mostActiveDay": "Wednesday",
     "averagePerDay": 1.22,
-    "averagePerWeek": 8.52,
-    "averagePerMonth": 36.51,
+    "averagePerWeek": 8.54,
+    "averagePerMonth": 36.59,
     "monthlyBreakdown": [
       {
         "month": "2013-10",
@@ -873,7 +873,7 @@
       },
       {
         "month": "2026-01",
-        "contributions": 44
+        "contributions": 57
       }
     ]
   },
@@ -908,25 +908,25 @@
         "languageName": "TypeScript",
         "color": "#3178c6",
         "value": 5857552,
-        "percentage": 48.28
+        "percentage": 48.24
       },
       {
         "languageName": "C#",
         "color": "#178600",
         "value": 3463550,
-        "percentage": 28.54
+        "percentage": 28.52
       },
       {
         "languageName": "JavaScript",
         "color": "#f1e05a",
         "value": 2645243,
-        "percentage": 21.8
+        "percentage": 21.78
       },
       {
         "languageName": "YAML",
         "color": "#cb171e",
-        "value": 139773,
-        "percentage": 1.15
+        "value": 149575,
+        "percentage": 1.23
       },
       {
         "languageName": "Shell",
@@ -1025,23 +1025,23 @@
       "sveltekit",
       "template"
     ],
-    "contributionsThisYear": 44,
+    "contributionsThisYear": 57,
     "contributionsLastYear": 2203,
-    "yearOverYearGrowth": -98,
+    "yearOverYearGrowth": -97.41,
     "mostProductiveMonth": {
       "month": "2023-04",
       "contributions": 365
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 4937,
+    "totalCommitContributions": 4948,
     "restrictedContributionsCount": 109,
     "totalIssueContributions": 36,
     "totalRepositoryContributions": 171,
-    "totalPullRequestContributions": 132,
+    "totalPullRequestContributions": 134,
     "totalPullRequestReviewContributions": 57,
     "contributionCalendar": {
-      "totalContributions": 5450,
+      "totalContributions": 5463,
       "weeks": [
         {
           "contributionDays": [
@@ -21550,8 +21550,12 @@
               "date": "2026-01-07"
             },
             {
-              "contributionCount": 2,
+              "contributionCount": 13,
               "date": "2026-01-08"
+            },
+            {
+              "contributionCount": 2,
+              "date": "2026-01-09"
             }
           ]
         }
@@ -21574,7 +21578,7 @@
         "plex",
         "pms"
       ],
-      "updatedAt": "2026-01-08T11:08:18Z",
+      "updatedAt": "2026-01-09T11:08:03Z",
       "createdAt": "2023-03-24T13:33:38Z"
     },
     {
@@ -21697,5 +21701,5 @@
   ],
   "closedIssues": 25,
   "openIssues": 11,
-  "fetchedAt": 1767874402608
+  "fetchedAt": 1767960781185
 }
