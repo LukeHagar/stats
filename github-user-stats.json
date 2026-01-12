@@ -9,15 +9,15 @@
   "twitterUsername": null,
   "websiteUrl": "LukeHagar.com",
   "createdAt": "2013-10-16T16:40:20Z",
-  "repoViews": 783,
-  "linesOfCodeChanged": 10508345,
-  "linesAdded": 7969098,
-  "linesDeleted": 2539247,
-  "commitCount": 3598,
-  "totalCommits": 5495,
+  "repoViews": 786,
+  "linesOfCodeChanged": 21420239,
+  "linesAdded": 13524086,
+  "linesDeleted": 7896153,
+  "commitCount": 4405,
+  "totalCommits": 5499,
   "totalPullRequests": 135,
   "totalPullRequestReviews": 57,
-  "codeByteTotal": 204997345,
+  "codeByteTotal": 204999481,
   "topLanguages": [
     {
       "languageName": "PowerShell",
@@ -40,7 +40,7 @@
     {
       "languageName": "Java",
       "color": "#b07219",
-      "value": 22386657,
+      "value": 22388793,
       "percentage": 10.92
     },
     {
@@ -274,14 +274,14 @@
   "repositoriesContributedTo": 18,
   "discussionsStarted": 3,
   "discussionsAnswered": 0,
-  "totalContributions": 5476,
+  "totalContributions": 5479,
   "contributionStats": {
-    "longestStreak": 646,
-    "currentStreak": 646,
+    "longestStreak": 647,
+    "currentStreak": 647,
     "mostActiveDay": "Wednesday",
     "averagePerDay": 1.22,
-    "averagePerWeek": 8.55,
-    "averagePerMonth": 36.66,
+    "averagePerWeek": 8.56,
+    "averagePerMonth": 36.67,
     "monthlyBreakdown": [
       {
         "month": "2013-10",
@@ -873,7 +873,7 @@
       },
       {
         "month": "2026-01",
-        "contributions": 70
+        "contributions": 73
       }
     ]
   },
@@ -884,7 +884,7 @@
     "archivedRepos": 1,
     "forkedRepos": 46,
     "originalRepos": 123,
-    "activeRepos": 11,
+    "activeRepos": 12,
     "reposWithStars": 40,
     "reposCreatedThisYear": 1,
     "averageStarsPerRepo": 2.72
@@ -896,72 +896,72 @@
     "archivedRepos": 1,
     "forkedRepos": 46,
     "originalRepos": 123,
-    "activeRepos": 11,
+    "activeRepos": 12,
     "reposWithStars": 40,
     "reposCreatedThisYear": 1,
     "averageStarsPerRepo": 2.72,
     "languageCount": 41,
     "primaryLanguage": "PowerShell",
-    "primaryLanguageThisYear": "TypeScript",
+    "primaryLanguageThisYear": "Java",
     "topLanguagesThisYear": [
+      {
+        "languageName": "Java",
+        "color": "#b07219",
+        "value": 18188962,
+        "percentage": 45.38
+      },
       {
         "languageName": "TypeScript",
         "color": "#3178c6",
         "value": 5881717,
-        "percentage": 26.87
+        "percentage": 14.68
       },
       {
         "languageName": "Python",
         "color": "#3572A5",
         "value": 5448355,
-        "percentage": 24.89
+        "percentage": 13.59
       },
       {
         "languageName": "Go",
         "color": "#00ADD8",
         "value": 4115348,
-        "percentage": 18.8
+        "percentage": 10.27
       },
       {
         "languageName": "C#",
         "color": "#178600",
         "value": 3464907,
-        "percentage": 15.83
+        "percentage": 8.65
       },
       {
         "languageName": "JavaScript",
         "color": "#f1e05a",
         "value": 2647203,
-        "percentage": 12.09
+        "percentage": 6.6
       },
       {
         "languageName": "Svelte",
         "color": "#ff3e00",
         "value": 156536,
-        "percentage": 0.72
+        "percentage": 0.39
       },
       {
         "languageName": "YAML",
         "color": "#cb171e",
         "value": 151098,
-        "percentage": 0.69
+        "percentage": 0.38
       },
       {
         "languageName": "Shell",
         "color": "#89e051",
         "value": 10047,
-        "percentage": 0.05
+        "percentage": 0.03
       },
       {
         "languageName": "JSON5",
         "color": "#267CB9",
         "value": 5535,
-        "percentage": 0.03
-      },
-      {
-        "languageName": "HTML",
-        "color": "#e34c26",
-        "value": 3063,
         "percentage": 0.01
       }
     ],
@@ -1025,23 +1025,23 @@
       "sveltekit",
       "template"
     ],
-    "contributionsThisYear": 70,
+    "contributionsThisYear": 73,
     "contributionsLastYear": 2203,
-    "yearOverYearGrowth": -96.82,
+    "yearOverYearGrowth": -96.69,
     "mostProductiveMonth": {
       "month": "2023-04",
       "contributions": 365
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 4960,
+    "totalCommitContributions": 4963,
     "restrictedContributionsCount": 109,
     "totalIssueContributions": 36,
     "totalRepositoryContributions": 171,
     "totalPullRequestContributions": 135,
     "totalPullRequestReviewContributions": 57,
     "contributionCalendar": {
-      "totalContributions": 5476,
+      "totalContributions": 5479,
       "weeks": [
         {
           "contributionDays": [
@@ -21566,8 +21566,12 @@
         {
           "contributionDays": [
             {
-              "contributionCount": 2,
+              "contributionCount": 3,
               "date": "2026-01-11"
+            },
+            {
+              "contributionCount": 2,
+              "date": "2026-01-12"
             }
           ]
         }
@@ -21590,7 +21594,7 @@
         "plex",
         "pms"
       ],
-      "updatedAt": "2026-01-11T11:07:30Z",
+      "updatedAt": "2026-01-12T12:13:19Z",
       "createdAt": "2023-03-24T13:33:38Z"
     },
     {
@@ -21713,5 +21717,5 @@
   ],
   "closedIssues": 25,
   "openIssues": 11,
-  "fetchedAt": 1768133510211
+  "fetchedAt": 1768220004288
 }
