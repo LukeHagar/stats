@@ -9,21 +9,21 @@
   "twitterUsername": null,
   "websiteUrl": "parke.dev",
   "createdAt": "2013-10-16T16:40:20Z",
-  "repoViews": 602,
-  "linesOfCodeChanged": 20418515,
-  "linesAdded": 12595815,
-  "linesDeleted": 7822700,
-  "commitCount": 3323,
-  "totalCommits": 5526,
+  "repoViews": 558,
+  "linesOfCodeChanged": 20457972,
+  "linesAdded": 12625731,
+  "linesDeleted": 7832241,
+  "commitCount": 3345,
+  "totalCommits": 5543,
   "totalPullRequests": 135,
   "totalPullRequestReviews": 57,
-  "codeByteTotal": 205168476,
+  "codeByteTotal": 205175676,
   "topLanguages": [
     {
       "languageName": "PowerShell",
       "color": "#012456",
       "value": 58546711,
-      "percentage": 28.54
+      "percentage": 28.53
     },
     {
       "languageName": "MDX",
@@ -130,8 +130,8 @@
     {
       "languageName": "YAML",
       "color": "#cb171e",
-      "value": 295945,
-      "percentage": 0.14
+      "value": 303000,
+      "percentage": 0.15
     },
     {
       "languageName": "Kotlin",
@@ -254,6 +254,12 @@
       "percentage": 0
     },
     {
+      "languageName": "Go Template",
+      "color": "#00ADD8",
+      "value": 145,
+      "percentage": 0
+    },
+    {
       "languageName": "WebAssembly",
       "color": "#04133b",
       "value": 141,
@@ -274,14 +280,14 @@
   "repositoriesContributedTo": 18,
   "discussionsStarted": 3,
   "discussionsAnswered": 0,
-  "totalContributions": 5508,
+  "totalContributions": 5525,
   "contributionStats": {
-    "longestStreak": 651,
-    "currentStreak": 651,
+    "longestStreak": 652,
+    "currentStreak": 652,
     "mostActiveDay": "Wednesday",
     "averagePerDay": 1.23,
-    "averagePerWeek": 8.59,
-    "averagePerMonth": 36.83,
+    "averagePerWeek": 8.62,
+    "averagePerMonth": 36.94,
     "monthlyBreakdown": [
       {
         "month": "2013-10",
@@ -873,7 +879,7 @@
       },
       {
         "month": "2026-01",
-        "contributions": 102
+        "contributions": 119
       }
     ]
   },
@@ -900,7 +906,7 @@
     "reposWithStars": 40,
     "reposCreatedThisYear": 2,
     "averageStarsPerRepo": 2.72,
-    "languageCount": 41,
+    "languageCount": 42,
     "primaryLanguage": "PowerShell",
     "primaryLanguageThisYear": "Java",
     "topLanguagesThisYear": [
@@ -908,7 +914,7 @@
         "languageName": "Java",
         "color": "#b07219",
         "value": 18188962,
-        "percentage": 45.19
+        "percentage": 45.18
       },
       {
         "languageName": "TypeScript",
@@ -943,8 +949,8 @@
       {
         "languageName": "YAML",
         "color": "#cb171e",
-        "value": 295945,
-        "percentage": 0.74
+        "value": 303000,
+        "percentage": 0.75
       },
       {
         "languageName": "Svelte",
@@ -1025,23 +1031,23 @@
       "sveltekit",
       "template"
     ],
-    "contributionsThisYear": 102,
+    "contributionsThisYear": 119,
     "contributionsLastYear": 2203,
-    "yearOverYearGrowth": -95.37,
+    "yearOverYearGrowth": -94.6,
     "mostProductiveMonth": {
       "month": "2023-04",
       "contributions": 365
     }
   },
   "contributionsCollection": {
-    "totalCommitContributions": 4991,
+    "totalCommitContributions": 5008,
     "restrictedContributionsCount": 109,
     "totalIssueContributions": 36,
     "totalRepositoryContributions": 172,
     "totalPullRequestContributions": 135,
     "totalPullRequestReviewContributions": 57,
     "contributionCalendar": {
-      "totalContributions": 5508,
+      "totalContributions": 5525,
       "weeks": [
         {
           "contributionDays": [
@@ -21586,8 +21592,12 @@
               "date": "2026-01-15"
             },
             {
-              "contributionCount": 17,
+              "contributionCount": 27,
               "date": "2026-01-16"
+            },
+            {
+              "contributionCount": 7,
+              "date": "2026-01-17"
             }
           ]
         }
@@ -21610,7 +21620,7 @@
         "plex",
         "pms"
       ],
-      "updatedAt": "2026-01-16T11:08:15Z",
+      "updatedAt": "2026-01-17T11:07:00Z",
       "createdAt": "2023-03-24T13:33:38Z"
     },
     {
@@ -21733,5 +21743,5 @@
   ],
   "closedIssues": 25,
   "openIssues": 11,
-  "fetchedAt": 1768565568607
+  "fetchedAt": 1768651883059
 }
